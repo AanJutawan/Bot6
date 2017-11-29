@@ -10,27 +10,27 @@ from gtts import gTTS
 
 #tinkerbell
 cl = LINETCR.LINE()
-cl.login(qr=True)
+cl.login(token="EnUYyqCSPtwR69uQNPub.sDTrH/zMSMOdJJyRwe3qQW.drdrZUcuAd/AT0msL9LodnP8sfvMblrwBtb7e3oDBVw=")
 cl.loginResult()
 #vidia
 kt = LINETCR.LINE()
-kt.login(qr=True)
+kt.login(token="EnGnnBKgqMaNaRVLejk1.UlrDCGkj7dxSpRrrWVSpKq.l0NrndGfFLHz3MrEEE2iWVv3kqONPsI3BdGFgmE6hyA=")
 kt.loginResult()
 #rosetta
 ks = LINETCR.LINE()
-ks.login(qr=True)
+ks.login(token="Enwdzg8bZav25QWN8Gye.7oUShdLcs9TUvO5sMkXNpG.TywP/vryjIH8mAUme6JXS/PqGYdUlGlbiDJkonK+xPA=")
 ks.loginResult()
 #sirvelmist
 ki = LINETCR.LINE()
-ki.login(qr=True)
+ki.login(token="EnGo78f652fwu8gcXHa5.T2Obu6kd2POuq9/WqXGtnq.UYTg+cfay9+8puESkz3CzK0KEHIB3f6K2Qb3ztSRR8c=")
 ki.loginResult()
 #fawn
 kk = LINETCR.LINE()
-kk.login(qr=True)
+kk.login(token="EngoffDSv6Domioqo6Md.AaRklDERafMmmw4gJp8JRq.273iqdHQ1E9BNLu6vST408CNW4nlD2vVRHVuPn7s1rg=")
 kk.loginResult()
 #iridessa
 kc = LINETCR.LINE()
-kc.login(qr=True)
+kc.login(token="EnZgGjZqBaw8sVRBHbRe.uHwIvq3v1iyKQZqnNrhKFG.clRy8nlbIQhxuMTZGY9e4nIB/Nb9GBmKNekBf2aTyZI=")
 kc.loginResult()
 
 #kicker ghost
@@ -2459,8 +2459,6 @@ def bot(op):
                 md="list of bot settings\n\n"
                 if wait["likeOn"] == True: md+="Auto like : on\n"
                 else:md+="Auto like : off\n"
-                if mimic["copy"] == True: md+="Mimic : on\n"
-                else:md+="Mimic : off\n"
                 if wait["winvite"] == True: md+="Invite : on\n"
                 else:md+="Invite : off\n"
                 if wait["pname"] == True: md+="Namelock : on\n"
@@ -2831,6 +2829,96 @@ def bot(op):
                             try:
                                cl.CloneContactProfile(target)
                                cl.sendText(msg.to, "Copied.")
+                            except Exception as e:
+                                print e
+            elif "copy1 @" in msg.text:
+                   print "[COPY] Ok"
+                   _name = msg.text.replace("copy @","")
+                   _nametarget = _name.rstrip('  ')
+                   gs = kk.getGroup(msg.to)
+                   targets = []
+                   for g in gs.members:
+                       if _nametarget == g.displayName:
+                           targets.append(g.mid)
+                   if targets == []:
+                       kk.sendText(msg.to, "Not Found...")
+                   else:
+                       for target in targets:
+                            try:
+                               kk.CloneContactProfile(target)
+                               kk.sendText(msg.to, "Copied.")
+                            except Exception as e:
+                                print e
+            elif "copy2 @" in msg.text:
+                   print "[COPY] Ok"
+                   _name = msg.text.replace("copy @","")
+                   _nametarget = _name.rstrip('  ')
+                   gs = ki.getGroup(msg.to)
+                   targets = []
+                   for g in gs.members:
+                       if _nametarget == g.displayName:
+                           targets.append(g.mid)
+                   if targets == []:
+                       ki.sendText(msg.to, "Not Found...")
+                   else:
+                       for target in targets:
+                            try:
+                               ki.CloneContactProfile(target)
+                               ki.sendText(msg.to, "Copied.")
+                            except Exception as e:
+                                print e
+            elif "copy3 @" in msg.text:
+                   print "[COPY] Ok"
+                   _name = msg.text.replace("copy @","")
+                   _nametarget = _name.rstrip('  ')
+                   gs = kc.getGroup(msg.to)
+                   targets = []
+                   for g in gs.members:
+                       if _nametarget == g.displayName:
+                           targets.append(g.mid)
+                   if targets == []:
+                       kc.sendText(msg.to, "Not Found...")
+                   else:
+                       for target in targets:
+                            try:
+                               kc.CloneContactProfile(target)
+                               kc.sendText(msg.to, "Copied.")
+                            except Exception as e:
+                                print e
+            elif "copy4 @" in msg.text:
+                   print "[COPY] Ok"
+                   _name = msg.text.replace("copy @","")
+                   _nametarget = _name.rstrip('  ')
+                   gs = ks.getGroup(msg.to)
+                   targets = []
+                   for g in gs.members:
+                       if _nametarget == g.displayName:
+                           targets.append(g.mid)
+                   if targets == []:
+                       ks.sendText(msg.to, "Not Found...")
+                   else:
+                       for target in targets:
+                            try:
+                               ks.CloneContactProfile(target)
+                               ks.sendText(msg.to, "Copied.")
+                            except Exception as e:
+                                print e
+            elif "copy5 @" in msg.text:
+                   print "[COPY] Ok"
+                   _name = msg.text.replace("copy @","")
+                   _nametarget = _name.rstrip('  ')
+                   gs = kt.getGroup(msg.to)
+                   targets = []
+                   for g in gs.members:
+                       if _nametarget == g.displayName:
+                           targets.append(g.mid)
+                   if targets == []:
+                       kt.sendText(msg.to, "Not Found...")
+                   else:
+                       for target in targets:
+                            try:
+                               kt.CloneContactProfile(target)
+                               kt.sendText(msg.to, "Copied.")
                             except Exception as e:
                                 print e
             elif msg.text in ["Backup","backup"]:
