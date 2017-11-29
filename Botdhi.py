@@ -237,12 +237,18 @@ Ą̷̪͕̪̹̼̻̻͉̜̘̪̖̻ͨͧͨ́̓͂́ͩ̇̔ͥ̆́ͥ͡ȁ̼͖̤ͨ̂̆̈̓
 =======================
 """
 KAC=[cl,ki,kk,kc,ks,kt]
-mid = cl.getProfile().mid
-Amid = ki.getProfile().mid
-Bmid = kk.getProfile().mid
-Cmid = kc.getProfile().mid
-Dmid = ks.getProfile().mid
-Emid = kt.getProfile().mid
+mid = cl.getProfile().mid 
+["u350cc7408cc6cc82e056ee046131f925"]
+Amid = ki.getProfile().mid 
+["ub23ad49c409ac6773c4a151114e4761c"]
+Bmid = kk.getProfile().mid 
+["u7b1f69a2dc97fc690326467b76a2cdb2"]
+Cmid = kc.getProfile().mid 
+["ueb040473fd4f50aa0b2ca56aee818b1d"]
+Dmid = ks.getProfile().mid 
+["uec09c371e4c19ae01aa3d84857440eb7"]
+Emid = kt.getProfile().mid 
+["uce7a0da7850e53de4452cfe4535084e2"]
 #Fmid = kl.getProfile().mid
 
 protectname = []
@@ -253,8 +259,8 @@ autoinvite = []
 autoleaveroom = []
 targets = []
 Bots=[mid,Amid,Bmid,Cmid,Dmid,Emid]
-admin = ["ub76a0153a283da9a1443dfb043181335","ud010d283f3fb4157ec43ad4e53fe6d3c"]
-owner = ["ub76a0153a283da9a1443dfb043181335"]
+admin = ["u350cc7408cc6cc82e056ee046131f925"]
+owner = ["u350cc7408cc6cc82e056ee046131f925"]
 wait = {
     'contact':False,
     'autoJoin':True,
@@ -264,7 +270,7 @@ wait = {
     'autoAdd':False,
     'message':"Thanks for add Me",
     "lang":"JP",
-    "comment":"AutoLike by ayana",
+    "comment":"AutoLike by babang adhi",
     "welmsg":"welcome to group",
     "commentOn":True,
     "commentBlack":{},
@@ -1503,7 +1509,7 @@ def bot(op):
         if op.type == 24:
             if wait["leaveRoom"] == True:
                 cl.leaveRoom(op.param1)
-        if op.type == 26:
+        if op.type == 25:
             msg = op.message
             if msg.toType == 0:
                 msg.to = msg.from_
@@ -1528,7 +1534,7 @@ def bot(op):
                 kc.like(url[25:58], url[66:], likeType=1001)
                 kt.like(url[25:58], url[66:], likeType=1001)
                 ks.like(url[25:58], url[66:], likeType=1001)
-        if op.type == 26:
+        if op.type == 25:
             msg = op.message
             if msg.contentType == 13:
                if wait["wblack"] == True:
@@ -1656,7 +1662,7 @@ def bot(op):
                 cl.findAndAddContactsByMid(midd)
                 cl.inviteIntoGroup(msg.to,[midd])
             
-            elif msg.text.lower() == 'contact bot':
+            elif msg.text.lower() == 'contact bot','Bot':
               if msg.from_ in admin:
                 msg.contentType = 13
                 msg.contentMetadata = {'mid': mid}
@@ -2453,7 +2459,7 @@ def bot(op):
                         cl.sendText(msg.to,"Already。")
 #==========================================================
 
-            elif msg.text in ["Settings"]:
+            elif msg.text in ["Settings","Set"]:
               if msg.from_ in admin:
             	print "Setting pick up..."
                 md="list of bot settings\n\n"
