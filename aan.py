@@ -10,27 +10,27 @@ from gtts import gTTS
 
 #tinkerbell
 cl = LINETCR.LINE()
-cl.login(token="")
+cl.login(token="EnhmT4yIsutkurro1SGa.4hEmxgX9P6cqQaMJQ30VsG.j0NNDsADmDLjCuuA7FkPgfoLKKkkCD0AhjLQPUnmA3E=")
 cl.loginResult()
 #vidia
 kt = LINETCR.LINE()
-kt.login(token="")
+kt.login(token="En4QkYZUDx25ty9u9N23.0CBpnV6ksL9CcKYqcQ+pOW.KtiIZayR0ZvKP7Rim01+HUefpiqSasP8VULK/eTZdZ0=")
 kt.loginResult()
 #rosetta
 ks = LINETCR.LINE()
-ks.login(token="")
+ks.login(token="EnsbixTzCoeH9RfLCfk6.vsM6waj4D66/pVIMntl0rG.vk/3RLAwNeQ8QGb9W3M31343b1dWp8Co/lUlhS6gY3o=")
 ks.loginResult()
 #sirvelmist
 ki = LINETCR.LINE()
-ki.login(token="")
+ki.login(token="EnGg1TH1kPIaoSfqQpOc.gcHfx+ueCoqb5EU89K/pta.qGtwwOt+FQHxTeMB0UctJyiRHQEsQiK902gfI1unaXY=")
 ki.loginResult()
 #fawn
 kk = LINETCR.LINE()
-kk.login(token="")
+kk.login(token="EnmUU2H2NlkDaXPNk5Sb.oDn8mJHGXn8poKtcimrw2W.t7y2EZY5mf/oy2TqnEIXdh1Qzb0VxJCGCSNFuS7wWk8=")
 kk.loginResult()
 #iridessa
 kc = LINETCR.LINE()
-kc.login(token="")
+kc.login(token="EnlJaxEA8GubMFbZq8q7.mpcjkaMnV7BBNyvuztkprW.7Fi4ih954zGBcZKgm2pXGMpArNDVYyP77jNlDu1Pl/g=")
 kc.loginResult()
 
 #kicker ghost
@@ -266,8 +266,8 @@ autoinvite = []
 autoleaveroom = []
 targets = []
 Bots=[mid,Amid,Bmid,Cmid,Dmid,Emid]
-admin = ["ub76a0153a283da9a1443dfb043181335","ud010d283f3fb4157ec43ad4e53fe6d3c"]
-owner = ["ub76a0153a283da9a1443dfb043181335"]
+admin = ["ue0778c5c6c7da7a090a809a3ab7d2f4a"]
+owner = ["ue0778c5c6c7da7a090a809a3ab7d2f4a"]
 wait = {
     'contact':False,
     'autoJoin':True,
@@ -1516,7 +1516,7 @@ def bot(op):
         if op.type == 24:
             if wait["leaveRoom"] == True:
                 cl.leaveRoom(op.param1)
-        if op.type == 26:
+        if op.type == 25:
             msg = op.message
             if msg.toType == 0:
                 msg.to = msg.from_
@@ -1541,7 +1541,7 @@ def bot(op):
                 kc.like(url[25:58], url[66:], likeType=1001)
                 kt.like(url[25:58], url[66:], likeType=1001)
                 ks.like(url[25:58], url[66:], likeType=1001)
-        if op.type == 26:
+        if op.type == 25:
             msg = op.message
             if msg.contentType == 13:
                if wait["wblack"] == True:
@@ -1624,7 +1624,7 @@ def bot(op):
                     cl.sendText(msg.to,"It can't be used besides the group.")
             
 
-        if op.type == 26:
+        if op.type == 25:
             msg = op.message
             if msg.contentType == 13:
             	if wait["winvite"] == True:
@@ -3039,7 +3039,7 @@ def bot(op):
                     for mm in matched_list:
                         cocoa += "\n" + mm + "\n"
                     cl.sendText(msg.to,cocoa + "")
-           elif "Details grup: " in msg.text:
+            elif "Details grup: " in msg.text:
                 if msg.from_ in admin:
                     gid = msg.text.replace("/DetailsGroup: ","")
                     if gid in [""," "]:
