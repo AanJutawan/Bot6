@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-import TOBY
+import LINETCR
 import goslate
 import requests
 import urllib
@@ -11,13 +11,13 @@ import client
 import wikipedia
 import requests
 from gtts import gTTS
-from TOBY.lib.curve.ttypes import *
+from LINETCR.lib.curve.ttypes import *
 from datetime import datetime
 import time,random,sys,json,codecs,threading,glob,re
 from bs4 import BeautifulSoup
 from threading import Thread
 
-cl = TOBY.LINE() #Bot Utama
+cl = LINETCR.LINE() #Bot Utama
 cl.login(qr=True)
 cl.loginResult()
 
@@ -43,7 +43,7 @@ helpMessage ="""
 ║> /śєṭṭıṅɢ [ċȏṃṃѧṅԀ śєṭṭıṅɢ]
 ╠═══════════════
 ║> ċяєѧṭȏя :
-║=> line://ti/p/~tobyg74
+║=> line://ti/p/~aanjutawan3
 ╠═══════════════
 ║> ṿєяśıȏṅ :
 ║=> 1.7.5ɞєṭѧ
@@ -52,8 +52,7 @@ helpMessage ="""
 ║=> ṭċя
 ╠═══════════════
 ║> єԀıṭєԀ ɞʏ :
-║=> ṭȏɞʏ
-║=> ғıԀһȏ
+║=> Aan
 ════════════════
 """
 
@@ -77,8 +76,7 @@ protectMessage ="""
 ║=> ṭċя
 ╠═══════════════
 ║> єԀıṭєԀ ɞʏ :
-║=> ṭȏɞʏ
-║=> ғıԀһȏ
+║=> Aan
 ════════════════
 """
 
@@ -98,7 +96,7 @@ socmedMessage ="""
 ║> ѕay [тeхт]
 ╠═══════════════
 ║> ċяєѧṭȏя :
-║=> line://ti/p/~tobyg74
+║=> line://ti/p/~alrahmantoganteng
 ╠═══════════════
 ║> ṿєяśıȏṅ :
 ║=> 1.7.5ɞєṭѧ
@@ -107,8 +105,7 @@ socmedMessage ="""
 ║=> ṭċя
 ╠═══════════════
 ║> єԀıṭєԀ ɞʏ :
-║=> ṭȏɞʏ
-║=> ғıԀһȏ
+║=> Aan
 ════════════════
 """
 
@@ -130,7 +127,7 @@ translateMessage ="""
 ║> тr-нy = arмenιan
 ╠═══════════════
 ║> ċяєѧṭȏя :
-║=> line://ti/p/~tobyg74
+║=> line://ti/p/~aanjutawan3
 ╠═══════════════
 ║> ṿєяśıȏṅ :
 ║=> 1.7.5ɞєṭѧ
@@ -139,8 +136,7 @@ translateMessage ="""
 ║=> ṭċя
 ╠═══════════════
 ║> єԀıṭєԀ ɞʏ :
-║=> ṭȏɞʏ
-║=> ғıԀһȏ
+║=> Aan
 ════════════════
 """
 
