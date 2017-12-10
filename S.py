@@ -7,13 +7,13 @@ import time,random,sys,json,codecs,threading,glob,re,ast,os,subprocess,requests
 
 cl = LINETCR.LINE()
 #cl.login(qr=True)
-cl.login(token='') #kris 
+cl.login(token="EnFFw83lKCRm8HT72GP4.x6EvjLE74Nmu1Wo4pafGra.dcOZJ56wSLmaVuGKfv6dkSv58jj49Jz6TWMRpldUz3E=")
 cl.loginResult()
 print "===[Login Success]==="
 
 ki = kk = kc = cl
 
-helpMessage ="""
+helpMessage ="""Team Randy Kills
 ====={List Keyword]=====
 ► Help
 ► Creator
@@ -28,9 +28,9 @@ helpMessage ="""
 ► Autokick:on/off
 ► Contact:on/off
 ► Gift (1,2,3)
-► Tagall / Abah
-► Setview / Cctv
-► Viewseen / Intip
+► Tagall / Tag
+► Setview / Sider
+► Viewseen / Ciduk
 ► Boom
 ► Add all 
 ► Recover
@@ -54,9 +54,9 @@ helpMessage ="""
 ► Kill ban
 """
 
-mid = cl.getProfile().mid
-Creator="u31ef22df7f538df1d74dc7f756ef1a32"
-admin=[mid,"u31ef22df7f538df1d74dc7f756ef1a32","u9cc2323f5b84f9df880c33aa9f9e3ae1"]
+mid = cl.getProfile().mid["u5fa7952657bbe27314d703b83c0160"]
+Creator=["u5fa7952657bbe27314d703b83c0160"]
+admin=["u5fa7952657bbe27314d703b83c0160"]
 
 contact = cl.getProfile()
 profile = cl.getProfile()
@@ -275,9 +275,9 @@ def bot(op):
 #--------------------------------------------------------
             elif msg.text in ["Creator"]:
                 msg.contentType = 13
-                msg.contentMetadata = {'mid': Creator}
+                msg.contentMetadata = {'mid': 'u5fa7952657bbe27314d703b83c0160'}
                 cl.sendMessage(msg)
-		cl.sendText(msg.to,"Itu Yang Bikin BOT")
+		cl.sendText(msg.to,"Itu Creator Saya Yang Baik")
 #--------------------------------------------------------
 	    elif msg.text in ["Group creator","Gcreator","gcreator"]:
 		ginfo = cl.getGroup(msg.to)
@@ -392,7 +392,7 @@ def bot(op):
                 wait["Contact"] = False
                 cl.sendText(msg.to,"Contact inActive")
 #--------------------------------------------------------
-            elif msg.text in ["Status"]:
+            elif msg.text in ["Set"]:
                 md = ""
 		if wait["AutoJoin"] == True: md+="✦ Auto join : on\n"
                 else: md +="✦ Auto join : off\n"
@@ -440,7 +440,7 @@ def bot(op):
                 cl.sendMessage(msg)
 
 #--------------------------------------------------------
-	    elif "Tagall" == msg.text:
+	    elif "Hay" == msg.text:
 		group = cl.getGroup(msg.to)
 		mem = [contact.mid for contact in group.members]
 		for mm in mem:
@@ -454,7 +454,7 @@ def bot(op):
 		    except Exception as e:
 			print str(e)
     #-------------Fungsi Tag All Start---------------#
-            elif msg.text in ["Emak"]:
+            elif msg.text in ["Tag"]:
                   group = cl.getGroup(msg.to)
                   nama = [contact.mid for contact in group.members]
                   cb = ""
@@ -476,7 +476,7 @@ def bot(op):
                   except Exception as error:
                       print error
                       
-            elif msg.text in ["Abah"]:
+            elif msg.text in ["Tagall"]:
             	 if msg.from_ in admin:              
                   group = cl.getGroup(msg.to)
                   nama = [contact.mid for contact in group.members]
@@ -539,12 +539,12 @@ def bot(op):
     #-------------Fungsi Tag All Finish---------------#
 #--------------------------CEK SIDER------------------------------
 
-            elif "Cctv" in msg.text:
+            elif "Sider" in msg.text:
                 subprocess.Popen("echo '' > dataSeen/"+msg.to+".txt", shell=True, stdout=subprocess.PIPE)
                 cl.sendText(msg.to, "Checkpoint checked!")
                 print "@setview"
 
-            elif "Intip" in msg.text:
+            elif "Ciduk" in msg.text:
 	        lurkGroup = ""
 	        dataResult, timeSeen, contacts, userList, timelist, recheckData = [], [], [], [], [], []
                 with open('dataSeen/'+msg.to+'.txt','r') as rr:
