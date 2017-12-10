@@ -54,7 +54,8 @@ helpMessage ="""Team Randy Kills
 ► Kill ban
 """
 
-mid = cl.getProfile().mid["u5fa7952657bbe27314d703b83c0160"]
+mid = cl.getProfile().mid
+["u5fa7952657bbe27314d703b83c0160"]
 Creator=["u5fa7952657bbe27314d703b83c0160"]
 admin=["u5fa7952657bbe27314d703b83c0160"]
 
