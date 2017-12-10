@@ -206,7 +206,7 @@ mid1 = k1.getProfile().mid #Backup
 ["u5fa7952657bbe27314d703b83c0160"]
  
  
-Bots=["u5fa7952657bbe27314d703b83c0160"]
+Bots=[mid,"u5fa7952657bbe27314d703b83c0160"]
 admin=["u5fa7952657bbe27314d703b83c0160"]
 owner=["u5fa7952657bbe27314d703b83c0160"]
 wait = {
