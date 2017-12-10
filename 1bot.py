@@ -164,7 +164,7 @@ bot chat :
 ******************"""
 
 Setgroup =""" 
-    [Min]
+    [Admin Menu]
 ==============
 ||[Protect QR]
 ||- Qr on/off
@@ -1138,7 +1138,7 @@ def bot(op):
                         except:
                             cu = ""
                         cl.sendText(msg.to,"[displayName]:\n" + contact.displayName + "\n[mid]:\n" + msg.contentMetadata["mid"] + "\n[statusMessage]:\n" + contact.statusMessage + "\n[pictureStatus]:\nhttp://dl.profile.line-cdn.net/" + contact.pictureStatus + "\n[coverURL]:\n" + str(cu))
-            elif msg.contentType == 16:
+            elif msg.contentType == 25:
                 if wait["timeline"] == True:
                     msg.contentType = 0
                     if wait["lang"] == "JP":
