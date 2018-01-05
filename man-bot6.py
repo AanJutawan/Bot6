@@ -41,7 +41,12 @@ kc.loginResult()
 print "T̐̄̈́̀̏͏̷̡̡͞e̱͍͍̟̯̞͙̙͍̜̯̅̈̍ͧͨ̽ͬ̾͏̶̶̵͡͝à̸̛̛͉̗̦͈͇̩̿̑ͯ̀̋͌̎̐ͯ̏ͤ͢͠m̨̦͔̠͈̜̫̖̘̗̠̽ͤͬͮͩ̋̑̽͛̌̉̿́̕ ͈҉̵̶̧̛̛͠͝҉̀͢͏̀͞ ̶̨̧̛̰̞͍͖͓͂̈́̄̃̇̐̐́̕̕͢͝ ̸̸̶̴̵̶̛̛̝͓̹̩̠̯̠̦̈̋̂̀̚͘͢͠͝͠J̶̛̲͇̤͔̝͕͍̮̳͎ͥ̾̐̆ͥ̑ͦ̓̓ͩ̎́ͅ͏̡̧̢̛̕̕͡͞u̵̵̲̽͑̆͌ͭ҉̵̧̧͘͝҉ţ̸̴̨̳͓͇͈̝̣̄͑̏̋̆̀̕͡͞ḁ̧̧̧̛̘͕͍̣̣͖̝ͤ̇͊̽̃͒̚̕͢͟ͅw̴̴̬̠̞͍̫̩̗ͫ̎ͩ͌̐͗ͮ̾̓̾͂͟͢aͪͫ̆ͬ̎̽ͧ̽̀ͬ͛ͬ̅̚͏̡͢͡҉n̤͈̒̂ͫ̽̈́ͭ҉͏̸̶̸́̕͡"
 reload(sys)
 sys.setdefaultencoding('utf-8')
-helpMessage= """\n
+helpMessage= """Mr. Bots…⛿
+╔══╦═╦═╗
+║║║║║║║║    ✯✯❇ᵀᴴᴬᴵᴸᴬᴺᴰ❇✯✯
+║║║║╦║║║ ❇͜͡C͜͡r͜͡e͜͡a͜͡t͜͡o͜͡r✯͜͡$͜͡ë͜͡I͜͡F͜͡-͜͡฿͜͡o͜͡Ŧ❇
+╚╩╩╩╩╩╩╝️ နับთิஏთั้ଏบਹທ SirichanV⒑
+📧https://line.me/R/ti/p/%40uvh1233u
 =======================
   ✩★BOT COMMANDS★✩
 =======================\n
@@ -245,9 +250,11 @@ helpMessage= """\n
 ★ special command ★
 ● Turn off bots
 =======================
-SPECIAL THANKS TO:
-Ą̷̪͕̪̹̼̻̻͉̜̘̪̖̻ͨͧͨ́̓͂́ͩ̇̔ͥ̆́ͥ͡ȁ̼͖̤̹͍̞̥̪̘͓̙͔̯̟̯ͨ̂̆̈̓͏̴̷̨̧̢̨́́͢n̴̨̨̛̙̦̮͇̞͍͕̾͐͑ͧͨ̀͛̈̿͛̒͘̕͟͝͠͞ ͈̯̥͎̼̜̟̪̘̙̅ͮͥͥͮ͛̅̄̅̎͆͆̀͏̸̡̛́͜͢͞Ţ̸̷͚̟̭͓̣͉͔̖̎̍̊̉̋́̀͘͟͢͢͟͞͠͠e̴̴̛̟̙̠̫͖̻͚̱͔̲̜͙͙͖̞̩̣̽̊̉̐̀̏̽̅ͤͤͦ̚͢a̜̰͇̼͑̿̾̎ͥ̍͑ͭͭ̅ͪͭͥ̌͘͡͏͡m̴̢̙͚͗̈́̆͂ͤ͂̓ͫ̒͛͐ͬ̍͛̉̀̀̕͜͢͝͝͡ ̶̴̡̛̹̣̥̳̰̫͚̩̯̞̠͕͙͈̝͖ͩ̑ͧ̀̀̀͟͜͝҉̧Ḇ̸̶̧̗͎͉̦̫̮̜̜͖͚͓̟̖̱̅ͭ̆̿͑̾ͭ̑̅̌̚̕͜͜͢͟͠͝͠o̜̮͍̟̭͈̳̩̩̩̳̣͕̬ͬ͒ͣ̒̌͆̕ͅ҉͏̷̶̴̨̢̕͟͞͝͠t̶̶̷̡̨͕̫̎ͫ̒͐͝͡͠҉҉͏҉
-=======================
+──────┅═ই۝ई═┅──────
+နับთิஏთั้ଏบਹທ  Sirichan V⒑
+สนใจติดต่อที่  ѕєʟғвот[ᴍ̶̲̅ᴀ̶̲̅ɴ̶̲̅]κɪcκєʀ
+http://line.me/ti/p/~1ove..neverdie
+──────┅═ই۝ई═┅──────
 """
 KAC=[cl,ki,kk,kc,ks,kt]
 mid = cl.getProfile().mid
@@ -266,8 +273,8 @@ autoinvite = []
 autoleaveroom = []
 targets = []
 Bots=[mid,Amid,Bmid,Cmid,Dmid,Emid]
-admin = ["ua045df9ee16399c865d9eb130d971a37"]
-owner = ["ua045df9ee16399c865d9eb130d971a37"]
+admin = ["ud24af63fd62d14c3bf8f719df80c3745"]
+owner = ["ud24af63fd62d14c3bf8f719df80c3745"]
 wait = {
     'contact':False,
     'autoJoin':True,
@@ -277,7 +284,7 @@ wait = {
     'autoAdd':False,
     'message':"Thanks for add Me",
     "lang":"JP",
-    "comment":"AutoLike by Daninoar",
+    "comment":"AutoLike by 📧https://line.me/R/ti/p/%40uvh1233u",
     "welmsg":"welcome to group",
     "commentOn":True,
     "commentBlack":{},
@@ -2469,7 +2476,7 @@ def bot(op):
             elif msg.text in ["Settings"]:
               if msg.from_ in admin:
             	print "Setting pick up..."
-                md="list of bot settings\n\n"
+                md="•─ ͜͡✫ѕєʟғвот[ᴍ̶̲̅ᴀ̶̲̅ɴ̶̲̅]κɪcκєʀ ͜͡✫─•\n\n"
                 if wait["likeOn"] == True: md+="Auto like : on\n"
                 else:md+="Auto like : off\n"
                 if wait["winvite"] == True: md+="Invite : on\n"
