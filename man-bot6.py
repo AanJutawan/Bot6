@@ -43,7 +43,7 @@ reload(sys)
 sys.setdefaultencoding('utf-8')
 helpMessage= """\n
 =======================
-  ✩★BOT COMMANDS★✩
+  ✩★•─ ͜͡✫ѕєʟғвот[ᴍ̶̲̅ᴀ̶̲̅ɴ̶̲̅]κɪcκєʀ ͜͡✫─•★✩
 =======================\n
 ★ MODIFIER ★
 ● Bot1 rename:[text]
@@ -245,9 +245,11 @@ helpMessage= """\n
 ★ special command ★
 ● Turn off bots
 =======================
-SPECIAL THANKS TO:
-Ą̷̪͕̪̹̼̻̻͉̜̘̪̖̻ͨͧͨ́̓͂́ͩ̇̔ͥ̆́ͥ͡ȁ̼͖̤̹͍̞̥̪̘͓̙͔̯̟̯ͨ̂̆̈̓͏̴̷̨̧̢̨́́͢n̴̨̨̛̙̦̮͇̞͍͕̾͐͑ͧͨ̀͛̈̿͛̒͘̕͟͝͠͞ ͈̯̥͎̼̜̟̪̘̙̅ͮͥͥͮ͛̅̄̅̎͆͆̀͏̸̡̛́͜͢͞Ţ̸̷͚̟̭͓̣͉͔̖̎̍̊̉̋́̀͘͟͢͢͟͞͠͠e̴̴̛̟̙̠̫͖̻͚̱͔̲̜͙͙͖̞̩̣̽̊̉̐̀̏̽̅ͤͤͦ̚͢a̜̰͇̼͑̿̾̎ͥ̍͑ͭͭ̅ͪͭͥ̌͘͡͏͡m̴̢̙͚͗̈́̆͂ͤ͂̓ͫ̒͛͐ͬ̍͛̉̀̀̕͜͢͝͝͡ ̶̴̡̛̹̣̥̳̰̫͚̩̯̞̠͕͙͈̝͖ͩ̑ͧ̀̀̀͟͜͝҉̧Ḇ̸̶̧̗͎͉̦̫̮̜̜͖͚͓̟̖̱̅ͭ̆̿͑̾ͭ̑̅̌̚̕͜͜͢͟͠͝͠o̜̮͍̟̭͈̳̩̩̩̳̣͕̬ͬ͒ͣ̒̌͆̕ͅ҉͏̷̶̴̨̢̕͟͞͝͠t̶̶̷̡̨͕̫̎ͫ̒͐͝͡͠҉҉͏҉
-=======================
+──────┅═ই۝ई═┅──────
+နับთิஏთั้ଏบਹທ  Sirichan V⒑
+สนใจติดต่อที่  ѕєʟғвот[ᴍ̶̲̅ᴀ̶̲̅ɴ̶̲̅]κɪcκєʀ
+http://line.me/ti/p/~1ove..neverdie
+──────┅═ই۝ई═┅──────
 """
 KAC=[cl,ki,kk,kc,ks,kt]
 mid = cl.getProfile().mid
@@ -266,8 +268,8 @@ autoinvite = []
 autoleaveroom = []
 targets = []
 Bots=[mid,Amid,Bmid,Cmid,Dmid,Emid]
-admin = ["ua045df9ee16399c865d9eb130d971a37"]
-owner = ["ua045df9ee16399c865d9eb130d971a37"]
+admin = ["ud24af63fd62d14c3bf8f719df80c3745"]
+owner = ["ud24af63fd62d14c3bf8f719df80c3745"]
 wait = {
     'contact':False,
     'autoJoin':True,
@@ -277,7 +279,7 @@ wait = {
     'autoAdd':False,
     'message':"Thanks for add Me",
     "lang":"JP",
-    "comment":"AutoLike by Daninoar",
+    "comment":"AutoLike.. by •─ ͜͡✫ѕєʟғвот[ᴍ̶̲̅ᴀ̶̲̅ɴ̶̲̅]κɪcκєʀ ͜͡✫─•\n📧https://line.me/R/ti/p/%40uvh1233u ",
     "welmsg":"welcome to group",
     "commentOn":True,
     "commentBlack":{},
@@ -2466,10 +2468,10 @@ def bot(op):
                         cl.sendText(msg.to,"Already。")
 #==========================================================
 
-            elif msg.text in ["Settings"]:
+            elif msg.text in ["Set"]:
               if msg.from_ in admin:
             	print "Setting pick up..."
-                md="list of bot settings\n\n"
+                md="•─ ͜͡✫ѕєʟғвот[ᴍ̶̲̅ᴀ̶̲̅ɴ̶̲̅]κɪcκєʀ ͜͡✫─•\n\n"
                 if wait["likeOn"] == True: md+="Auto like : on\n"
                 else:md+="Auto like : off\n"
                 if wait["winvite"] == True: md+="Invite : on\n"
@@ -2995,7 +2997,7 @@ def bot(op):
                     cl.sendText(msg.to, str (e))
 
 #===============================================
-            elif msg.text in ["debug speed","Debug speed"]:
+            elif msg.text in ["Sp","Debug speed"]:
               if msg.from_ in admin:
                 cl.sendText(msg.to, "Measuring...")
                 start = time.time()
@@ -3027,7 +3029,7 @@ def bot(op):
                                        cl.sendText(msg.to,"Success Boss")
                                    except:
                                        cl.sentText(msg.to,"Berhasil Dihapus")
-            elif msg.text in ["Ban cek","Cekban"]:
+            elif msg.text in ["Ban cek","Conban"]:
               if msg.from_ in admin:
                 if msg.toType == 2:
                     group = cl.getGroup(msg.to)
@@ -3202,7 +3204,7 @@ def bot(op):
             elif msg.text in ["Speed","speed"]:
 	      if msg.from_ in admin:
                 start = time.time()
-                cl.sendText(msg.to, "loading...................")
+                cl.sendText(msg.to, "•─ ͜͡✫ѕєʟғвот[ᴍ̶̲̅ᴀ̶̲̅ɴ̶̲̅]κɪcκєʀ ͜͡✫─• loading...")
                 elapsed_time = time.time() - start
                 cl.sendText(msg.to, "%sseconds" % (elapsed_time))
 		ki.sendText(msg.to, "%sseconds" % (elapsed_time))
@@ -3671,7 +3673,7 @@ def bot(op):
                             for rom in wait2["ROM"][msg.to].items():
                                 print rom
                                 chiya += rom[1] + "\n"
-                        cl.sendText(msg.to, "╔═══════════════%s\n╠════════════════\n%s╠═══════════════\n║Readig point creation:\n║ [%s]\n╚════════════════"  % (wait2['readMember'][msg.to],chiya,setTime[msg.to]))
+                        cl.sendText(msg.to, "╔═══════════════%s\n╠════════════════\n%s╠═══════════════\n║Readig point creation:\n║ [%s]\n╚════════════════\n•─ ͜͡✫ѕєʟғвот[ᴍ̶̲̅ᴀ̶̲̅ɴ̶̲̅]κɪcκєʀ ͜͡✫─•"  % (wait2['readMember'][msg.to],chiya,setTime[msg.to]))
                     else:
                         cl.sendText(msg.to, "anda slah ketik-_-")
 						
