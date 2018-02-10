@@ -19,7 +19,7 @@ class Poll:
   port = 443;
 
   UA = "Line/8.0.1" 
-  LA = "DESSKTOPMAC\t10.10.2-YOSEMITE-x64\tMAC 4.5.0"
+  LA = "DESKTOPMAC\t10.10.2-YOSEMITE-x64\tMAC 4.5.0"
 
   rev = 0
 
