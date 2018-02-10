@@ -42,209 +42,225 @@ print "T̐̄̈́̀̏͏̷̡̡͞e̱͍͍̟̯̞͙̙͍̜̯̅̈̍ͧͨ̽ͬ̾͏̶̶̵͡͝a
 reload(sys)
 sys.setdefaultencoding('utf-8')
 helpMessage= """\n
-=======================
-  ✩★•─ ͜͡✫ѕєʟғвот[ᴍ̶̲̅ᴀ̶̲̅ɴ̶̲̅]κɪcκєʀ ͜͡✫─•★✩
-=======================\n
-★ MODIFIER ★
-● Bot1 rename:[text]
-● Bot2 rename:[text]
-● Bot3 rename:[text]
-● Bot4 rename:[text]
-● Bot5 rename:[text]
-● Bot6 rename:[text]
-● All rename:[text]
-● Allbio:[text]
-● Bot1 clone @[name]
-● Bot2 clone @[name]
-● Bot3 clone @[name]
-● Bot4 clone @[name]
-● Bot5 clone @[name]
-● Bot6 clone @[name]
-● Comment:[text]
-● Message:[text]
-● Bot1-6 backup run
-● Bot1-6 backup
-● Group name:[text]
-
-★ PROMOTE/DEMOTE ★
-● Admin on @[name]
-● Expel on @[name]
-● Expelall
-● Set member:
-
-★ STEALING ★
-● Steal name    @[name]
-● Steal Bio     @[name]
-● Steal status  @[name]
-● Steal mid     @[name]
-● Steal contact @[name]
-● Steal cover   @[name]
-● Steal pict    @[name]
-● Steal group pict
-● Midpict:[mid]
-● Copy @[name]
-● Kembali ke asli
-
-★ GUARD MODE ★
-● Protect:low
-● Protect:hight
-
-★ MARK TO LIST ★
-● Ban    @[name]
-● Unban  @[name]
-● Ban group:
-● Del ban:
-● List ban group
-● Banned[send contact]
-● Unbanned[send contact]
-● Ban repeat @[name]
-● Blacklist all
-● Ban cek
-● Clear banlist
-● Mimic target @[name]
-● Mimic untarget @[name]
-● Add friend @[name]
-● Target @[name]
-● Del target @[name]
-● Target list
-
-★ INVITATION ★
-● Invite:[mid]
-● Invite user[contact]
-● Invite me
-● Team @join
-● Join group
-
-★ LEAVE GROUP ★
-● Bot2   @bye
-● Bot3   @bye
-● Bot4   @bye
-● Bot5   @bye
-● Bot6   @bye
-● Team   @bye
-● Center @bye
-● Bye allgroups[own]
-● Leave group:
-
-★ BOT AUTO SETTINGS ★
-● Auto join:on/off
-● Auto leave:on/off
-● Auto like:on/off
-● Welcome message:on/off
-● Auto notice:on/off
-● Blockinvite:on/off
-● Auto blockqr:on/off
-● Namelock:on/off
-● Mimic:on/off
-● Auto add:on/off
-● Check message
-● Add message:[text]
-● Comment:on/off
-● Add comment:[text]
-● Check comment
-● Backup:on/off
-● Gcancel:[number]
-● Update welcome:[text]
-● Check welcome message
-
-★ CANCEL MODE ★
-● Rejectall
-● Clean invites
-● Clear invites
-
-★ SUPRISE GIFT ★
-● gift1-15
-● Spam gift
-
-★ NOTIFICATION LIST ★
-● Group list
-● Banlist
-● Admin list
-● Settings
-● Ginfo
-● TL:[text]
-● Mimic list
-● Details grup:
-● Crash
-● Add all
-
-★ KICKER MODE ★
-● Cleanse
-● Vkick @
-● Nk [name]
-● Kick:[mid]
-● Purge
-● Ulti
-● Recover
-
-★ CHAT RELATED ★
-● Spamg[on/off][no][txt]
-● Spam add:[text]
-● Spam change:[text]
-● Spam start:[number]
-● Say [text]
-● Me
-● Speed
-● Debug speed
-● My mid
-● Gcreator
-● Halo
-● Bot contact
-● Bot mid
-● Creator
-● System
-● Iconfig
-● Kernel
-● Cpu
-● Responsename
-● Help
-● Mc:[mid]
-
-★ UTILITY ★
-● Lurking
-● Lurking result
-● Setlastpoint
-● Viewlastseen
-● Link open
-● Link close
-● Gurl
-● Remove chat
-● Bot restart
-
-★ CHAT RELATED ★
-● Lyric [][]
-● Music [][]
-● Wiki [text]
-● Vidio [text]
-● Youtube [text]
-● Instagram [text]
-● Translate-idn [text]
-● Translate-eng [text]
-● Translate-thai [text]
-● Translate-japan [text]
-● Emoji [expression]
-● Info @[name]
-● Ping
-● Time
-● apakah
-  [kerang ajaib]
-● Sticker [expression]
-● Mention all
-● /say
-● /say-en
-● /say-jp
-● Dosa @
-● /
-● Siapa
-
-★ BROADCASTING ★
-● Pm cast   [text]
-● Broadcast [text]
-● Spam @[name]
-
-★ special command ★
-● Turn off bots
-=======================
+========================
+─͜͡✫ѕєʟғвот[ᴍ̶̲̅ᴀ̶̲̅ɴ̶̲̅]κɪcκєʀ ͜͡✫─
+========================
+╭════════╬♥╬════════╮ 
+║         ★ MODIFIER ★
+║❂͜͡☆➣ Bot1 rename:[text]
+║❂͜͡☆➣ Bot2 rename:[text]
+║❂͜͡☆➣ Bot3 rename:[text]
+║❂͜͡☆➣ Bot4 rename:[text]
+║❂͜͡☆➣ Bot5 rename:[text]
+║❂͜͡☆➣ Bot6 rename:[text]
+║❂͜͡☆➣ All rename:[text]
+║❂͜͡☆➣ Allbio:[text]
+║❂͜͡☆➣ Bot1 clone @[name]
+║❂͜͡☆➣ Bot2 clone @[name]
+║❂͜͡☆➣ Bot3 clone @[name]
+║❂͜͡☆➣ Bot4 clone @[name]
+║❂͜͡☆➣ Bot5 clone @[name]
+║❂͜͡☆➣ Bot6 clone @[name]
+║❂͜͡☆➣ Comment:[text]
+║❂͜͡☆➣ Message:[text]
+║❂͜͡☆➣ Bot1-6 backup run
+║❂͜͡☆➣ Bot1-6 backup
+║❂͜͡☆➣ Group name:[text]
+╰════════╬♥╬════════╯
+╭════════╬♥╬════════╮ 
+║   ★ PROMOTE/DEMOTE ★
+║❂͜͡☆➣ Admin on @[name]
+║❂͜͡☆➣ Expel on @[name]
+║❂͜͡☆➣ Expelall
+║❂͜͡☆➣ Set member:
+╰════════╬♥╬════════╯
+╭════════╬♥╬════════╮ 
+║         ★ STEALING ★
+║❂͜͡☆➣ Steal name    @[name]
+║❂͜͡☆➣ Steal Bio     @[name]
+║❂͜͡☆➣ Steal status  @[name]
+║❂͜͡☆➣ Steal mid     @[name]
+║❂͜͡☆➣ Steal contact @[name]
+║❂͜͡☆➣ Steal cover   @[name]
+║❂͜͡☆➣ Steal pict    @[name]
+║❂͜͡☆➣ Steal group pict
+║❂͜͡☆➣ Midpict:[mid]
+║❂͜͡☆➣ Copy @[name]
+║❂͜͡☆➣ Kembali ke asli
+╰════════╬♥╬════════╯
+╭════════╬♥╬════════╮ 
+║       ★ GUARD MODE ★
+║❂͜͡☆➣ Protect:low
+║❂͜͡☆➣ Protect:hight
+╰════════╬♥╬════════╯
+╭════════╬♥╬════════╮ 
+║       ★ MARK TO LIST ★
+║❂͜͡☆➣ Ban    @[name]
+║❂͜͡☆➣ Unban  @[name]
+║❂͜͡☆➣ Ban group:
+║❂͜͡☆➣ Del ban:
+║❂͜͡☆➣ List ban group
+║❂͜͡☆➣ Banned[send contact]
+║❂͜͡☆➣ Unbanned[send contact]
+║❂͜͡☆➣ Ban repeat @[name]
+║❂͜͡☆➣ Blacklist all
+║❂͜͡☆➣ Ban cek
+║❂͜͡☆➣ Clear banlist
+║❂͜͡☆➣ Mimic target @[name]
+║❂͜͡☆➣ Mimic untarget @[name]
+║❂͜͡☆➣ Add friend @[name]
+║❂͜͡☆➣ Target @[name]
+║❂͜͡☆➣ Del target @[name]
+║❂͜͡☆➣ Target list
+╰════════╬♥╬════════╯
+╭════════╬♥╬════════╮ 
+║        ★ INVITATION ★
+║❂͜͡☆➣ Invite:[mid]
+║❂͜͡☆➣ Invite user[contact]
+║❂͜͡☆➣ Invite me
+║❂͜͡☆➣ Team @join
+║❂͜͡☆➣ Join group
+╰════════╬♥╬════════╯
+╭════════╬♥╬════════╮ 
+║       ★ LEAVE GROUP ★
+║❂͜͡☆➣ Bot2   @bye
+║❂͜͡☆➣ Bot3   @bye
+║❂͜͡☆➣ Bot4   @bye
+║❂͜͡☆➣ Bot5   @bye
+║❂͜͡☆➣ Bot6   @bye
+║❂͜͡☆➣ Team   @bye
+║❂͜͡☆➣ Center @bye
+║❂͜͡☆➣ Bye allgroups[own]
+║❂͜͡☆➣ Leave group:
+╰════════╬♥╬════════╯
+╭════════╬♥╬════════╮ 
+║ ★ BOT AUTO SETTINGS ★
+║❂͜͡☆➣ Auto join:on/off
+║❂͜͡☆➣ Auto leave:on/off
+║❂͜͡☆➣ Auto like:on/off
+║❂͜͡☆➣ Welcome message:on/off
+║❂͜͡☆➣ Auto notice:on/off
+║❂͜͡☆➣ Blockinvite:on/off
+║❂͜͡☆➣ Auto blockqr:on/off
+║❂͜͡☆➣ Namelock:on/off
+║❂͜͡☆➣ Mimic:on/off
+║❂͜͡☆➣ Auto add:on/off
+║❂͜͡☆➣ Check message
+║❂͜͡☆➣ Add message:[text]
+║❂͜͡☆➣ Comment:on/off
+║❂͜͡☆➣ Add comment:[text]
+║❂͜͡☆➣ Check comment
+║❂͜͡☆➣ Backup:on/off
+║❂͜͡☆➣ Gcancel:[number]
+║❂͜͡☆➣ Update welcome:[text]
+║❂͜͡☆➣ Check welcome message
+╰════════╬♥╬════════╯
+╭════════╬♥╬════════╮ 
+║      ★ CANCEL MODE ★
+║❂͜͡☆➣ Rejectall
+║❂͜͡☆➣ Clean invites
+║❂͜͡☆➣ Clear invites
+╰════════╬♥╬════════╯
+╭════════╬♥╬════════╮ 
+║     ★ SUPRISE GIFT ★
+║❂͜͡☆➣ gift1-15
+║❂͜͡☆➣ Spam gift
+╰════════╬♥╬════════╯
+╭════════╬♥╬════════╮ 
+║ ★ NOTIFICATION LIST ★
+║❂͜͡☆➣ Group list
+║❂͜͡☆➣ Banlist
+║❂͜͡☆➣ Admin list
+║❂͜͡☆➣ Settings
+║❂͜͡☆➣ Ginfo
+║❂͜͡☆➣ TL:[text]
+║❂͜͡☆➣ Mimic list
+║❂͜͡☆➣ Details grup:
+║❂͜͡☆➣ Crash
+║❂͜͡☆➣ Add all
+╰════════╬♥╬════════╯
+╭════════╬♥╬════════╮ 
+║       ★ KICKER MODE ★
+║❂͜͡☆➣ Cleanse
+║❂͜͡☆➣ Vkick @
+║❂͜͡☆➣ Nk [name]
+║❂͜͡☆➣ Kick:[mid]
+║❂͜͡☆➣ Purge
+║❂͜͡☆➣ Ulti
+║❂͜͡☆➣ Recover
+╰════════╬♥╬════════╯
+╭════════╬♥╬════════╮ 
+║      ★ CHAT RELATED ★
+║❂͜͡☆➣ Spamg [on/off]
+║❂͜͡☆➣ Spam add:[text]
+║❂͜͡☆➣ Spam change:[text]
+║❂͜͡☆➣ Spam start:[number]
+║❂͜͡☆➣ Say [text]
+║❂͜͡☆➣ Me
+║❂͜͡☆➣ Speed
+║❂͜͡☆➣ Debug speed
+║❂͜͡☆➣ My mid
+║❂͜͡☆➣ Gcreator
+║❂͜͡☆➣ Halo
+║❂͜͡☆➣ Bot contact
+║❂͜͡☆➣ Bot mid
+║❂͜͡☆➣ Creator
+║❂͜͡☆➣ System
+║❂͜͡☆➣ Iconfig
+║❂͜͡☆➣ Kernel
+║❂͜͡☆➣ Cpu
+║❂͜͡☆➣ Responsename
+║❂͜͡☆➣ Help
+║❂͜͡☆➣ Mc:[mid]
+╰════════╬♥╬════════╯
+╭════════╬♥╬════════╮ 
+║           ★ UTILITY ★
+║❂͜͡☆➣ Lurking
+║❂͜͡☆➣ Lurking result
+║❂͜͡☆➣ Setlastpoint
+║❂͜͡☆➣ Viewlastseen
+║❂͜͡☆➣ Link open
+║❂͜͡☆➣ Link close
+║❂͜͡☆➣ Gurl
+║❂͜͡☆➣ Remove chat
+║❂͜͡☆➣ Bot restart
+╰════════╬♥╬════════╯
+╭════════╬♥╬════════╮ 
+║      ★ CHAT RELATED ★
+║❂͜͡☆➣ Lyric [][]
+║❂͜͡☆➣ Music [][]
+║❂͜͡☆➣ Wiki [text]
+║❂͜͡☆➣ Vidio [text]
+║❂͜͡☆➣ Youtube [text]
+║❂͜͡☆➣ Instagram [text]
+║❂͜͡☆➣ Translate-idn [text]
+║❂͜͡☆➣ Translate-eng [text]
+║❂͜͡☆➣ Translate-thai [text]
+║❂͜͡☆➣ Translate-japan [text]
+║❂͜͡☆➣ Emoji [expression]
+║❂͜͡☆➣ Info @[name]
+║❂͜͡☆➣ Ping
+║❂͜͡☆➣ Time
+║❂͜͡☆➣ apakah [kerang ajaib]
+║❂͜͡☆➣ Sticker [expression]
+║❂͜͡☆➣ Mention all
+║❂͜͡☆➣ /say
+║❂͜͡☆➣ /say-en
+║❂͜͡☆➣ /say-jp
+║❂͜͡☆➣ Dosa @
+║❂͜͡☆➣ /
+║❂͜͡☆➣ Siapa
+╰════════╬♥╬════════╯
+╭════════╬♥╬════════╮ 
+║     ★ BROADCASTING ★
+║❂͜͡☆➣ Pm cast   [text]
+║❂͜͡☆➣ Broadcast [text]
+║❂͜͡☆➣ Spam @[name]
+╰════════╬♥╬════════╯
+╭════════╬♥╬════════╮ 
+║    ★ special command ★
+║❂͜͡☆➣ Turn off bots
+╰════════╬♥╬════════╯ 
 ──────┅═ই۝ई═┅──────
 နับთิஏთั้ଏบਹທ  Sirichan V⒑
 สนใจติดต่อที่  ѕєʟғвот[ᴍ̶̲̅ᴀ̶̲̅ɴ̶̲̅]κɪcκєʀ
