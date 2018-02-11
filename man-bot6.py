@@ -83,7 +83,7 @@ helpMessage= """\n
 ║❂͜͡☆➣ Midpict:[mid]
 ║❂͜͡☆➣ Copy @[name]
 ║❂͜͡☆➣ Backup กลับร่าง
-║❂͜͡☆➣ Kembali ke asli
+║❂͜͡☆➣ Backup all
 ╰════════╬♥╬════════╯
 ╭════════╬♥╬════════╮ 
 ║       ★ GUARD MODE ★
@@ -100,9 +100,9 @@ helpMessage= """\n
 ║❂͜͡☆➣ Banned[send contact]
 ║❂͜͡☆➣ Unbanned[send contact]
 ║❂͜͡☆➣ Ban repeat @[name]
-║❂͜͡☆➣ Blacklist all / Cb
+║❂͜͡☆➣ Blacklist all 
 ║❂͜͡☆➣ Ban cek / Conban
-║❂͜͡☆➣ Clear banlist
+║❂͜͡☆➣ Clear banlist / Cb
 ║❂͜͡☆➣ Mimic target @[name]
 ║❂͜͡☆➣ Mimic untarget @[name]
 ║❂͜͡☆➣ Add friend @[name]
@@ -114,8 +114,9 @@ helpMessage= """\n
 ║        ★ INVITATION ★
 ║❂͜͡☆➣ Invite:[mid]
 ║❂͜͡☆➣ Invite user[contact]
+║❂͜͡☆➣ เชิญ    อย่าส่งข้อมูล
 ║❂͜͡☆➣ Invite me
-║❂͜͡☆➣ Team @join
+║❂͜͡☆➣ Man@join
 ║❂͜͡☆➣ •••  /  Kicker
 ║❂͜͡☆➣ Join group
 ╰════════╬♥╬════════╯
@@ -128,8 +129,8 @@ helpMessage= """\n
 ║❂͜͡☆➣ Bot5   @bye
 ║❂͜͡☆➣ Bot6   @bye
 ║❂͜͡☆➣ Team   @bye
-║❂͜͡☆➣ Center @bye
-║❂͜͡☆➣ Botbye / Bye
+║❂͜͡☆➣ Creator@bye
+║❂͜͡☆➣ Man@bye / Bye
 ║❂͜͡☆➣ Bye allgroups[own]
 ║❂͜͡☆➣ Leave group:
 ╰════════╬♥╬════════╯
@@ -186,7 +187,7 @@ helpMessage= """\n
 ║❂͜͡☆➣ Nk [name]
 ║❂͜͡☆➣ Kick:[mid]
 ║❂͜͡☆➣ Purge
-║❂͜͡☆➣ Ulti
+║❂͜͡☆➣ Error!
 ║❂͜͡☆➣ Recover
 ╰════════╬♥╬════════╯
 ╭════════╬♥╬════════╮ 
@@ -199,7 +200,7 @@ helpMessage= """\n
 ║❂͜͡☆➣ Me
 ║❂͜͡☆➣ Speed
 ║❂͜͡☆➣ Debug speed
-║❂͜͡☆➣ My mid
+║❂͜͡☆➣ Mid
 ║❂͜͡☆➣ Gcreator
 ║❂͜͡☆➣ Halo
 ║❂͜͡☆➣ Bot contact
