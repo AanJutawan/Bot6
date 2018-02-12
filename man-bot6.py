@@ -1,4 +1,7 @@
 # -*- coding: utf-8 -*-
+#========================
+# ─͜͡✫ѕєʟғвот[ᴍ̶̲̅ᴀ̶̲̅ɴ̶̲̅]κɪcκєʀ ͜͡✫─
+#========================
 import LINETCR
 from LINETCR.lib.curve.ttypes import *
 from datetime import datetime
@@ -34,15 +37,154 @@ kc.loginResult()
 #kl.login(token="MAN")
 #kl.loginResult()
 
-print "login •─ ͜͡✫ѕєʟғвот﴾ᴍ̶̲̅ᴀ̶̲̅ɴ̶̲̅﴿κɪcκєʀ ͜͡✫─•"
+print "login.. SELFBOT-MAN-PC "
 reload(sys)
 sys.setdefaultencoding('utf-8')
 helpMessage= """\n
 ========================
 ─͜͡✫ѕєʟғвот[ᴍ̶̲̅ᴀ̶̲̅ɴ̶̲̅]κɪcκєʀ ͜͡✫─
 ========================
+╭════════╬♥╬════════╮
+║        ★ GUARD MODE ★
+║❂͜͡☆➣ Protect:low
+║❂͜͡☆➣ Protect:hight
+╰════════╬♥╬════════╯
+╭════════╬♥╬════════╮
+║      ★ BROADCASTING ★
+║❂͜͡☆➣ Pm cast   [text]
+║❂͜͡☆➣ Broadcast [text]
+║❂͜͡☆➣ Spam @[name]
+╰════════╬♥╬════════╯
+╭════════╬♥╬════════╮
+║      ★ SUPRISE GIFT ★
+║❂͜͡☆➣ gift1-15
+║❂͜͡☆➣ Spam gift
+╰════════╬♥╬════════╯
+╭════════╬♥╬════════╮
+║     ★ SPICIAL COMEMENT ★
+║❂͜͡☆➣ Turn off bots
+╰════════╬♥╬════════╯
 ╭════════╬♥╬════════╮ 
-║         ★ MODIFIER ★
+║      ★ CANCEL MODE ★
+║❂͜͡☆➣ Rejectall
+║❂͜͡☆➣ Clean invites
+║❂͜͡☆➣ Clear invites
+║❂͜͡☆➣ Cancelall
+╰════════╬🔝╬════════╯
+╭════════╬🔝╬════════╮
+║         ★ HACK STEAL ★
+║❂͜͡☆➣ [Hack pict group]
+║❂͜͡☆➣ Hack name    @[tag]
+║❂͜͡☆➣ Hack Bio     @[tag]
+║❂͜͡☆➣ Hack status  @[tag]
+║❂͜͡☆➣ Hack mid     @[tag]
+║❂͜͡☆➣ Hack contact @[tag]
+║❂͜͡☆➣ Hack cover   @[tag]
+║❂͜͡☆➣ Hack pict    @[tag]
+║❂͜͡☆➣ Midpict:[mid]
+║❂͜͡☆➣ Copy all @[tag]
+║❂͜͡☆➣ Backup กลับร่าง
+║❂͜͡☆➣ Backup all
+╰════════╬♥╬════════╯
+╭════════╬♥╬════════╮
+║       ★ MARK TO LIST ★
+║❂͜͡☆➣ Ban    @[tag]
+║❂͜͡☆➣ Unban  @[tag]
+║❂͜͡☆➣ Ban group:
+║❂͜͡☆➣ Del ban:
+║❂͜͡☆➣ List ban group
+║❂͜͡☆➣ Banned [Send contact]
+║❂͜͡☆➣ Unbanned [Send contact]
+║❂͜͡☆➣ Ban repeat @[tag]
+║❂͜͡☆➣ Blacklist all 
+║❂͜͡☆➣ Ban cek / Conban
+║❂͜͡☆➣ Clear ban / Cb / ล้างดำ
+║❂͜͡☆➣ Mimic target @[tag]
+║❂͜͡☆➣ Mimic untarget @[tag]
+║❂͜͡☆➣ Add friend @[tag]
+║❂͜͡☆➣ Target @[tag]
+║❂͜͡☆➣ Del target @[tag]
+║❂͜͡☆➣ Target list
+╰════════╬♥╬════════╯
+╭════════╬♥╬════════╮ 
+║ ★ NOTIFICATION LIST ★
+║❂͜͡☆➣ Group list
+║❂͜͡☆➣ Banlist
+║❂͜͡☆➣ Admin list
+║❂͜͡☆➣ Settings
+║❂͜͡☆➣ Ginfo
+║❂͜͡☆➣ TL:[text]
+║❂͜͡☆➣ Mimic list
+║❂͜͡☆➣ Details group:
+║❂͜͡☆➣ Creator-Selfbot
+╰════════╬♥╬════════╯
+╭════════╬♥╬════════╮
+║★ SELFBOT-MAN-PC RELATED ★
+║❇️ Help / Help2 / Help3 ❇️
+║❂͜͡☆➣ Admin/Creator/ Me
+║❂͜͡☆➣ Speedbot/Speed/Sp
+║❂͜͡☆➣ Debug speed
+║❂͜͡☆➣ Mid
+║❂͜͡☆➣ Gcreator
+║❂͜͡☆➣ Welcome
+║❂͜͡☆➣ Bot contact
+║❂͜͡☆➣ Bot mid
+║❂͜͡☆➣ Creator
+║❂͜͡☆➣ System
+║❂͜͡☆➣ Iconfig
+║❂͜͡☆➣ Kernel
+║❂͜͡☆➣ Cpu
+║❂͜͡☆➣ Respons
+║❂͜͡☆➣ Namebot
+║❂͜͡☆➣ Mc:[mid]
+╰════════╬♥╬════════╯
+╭════════╬♥╬════════╮ 
+║           ★ UTILITY ★
+║❂͜͡☆➣ ตั้งค่าเช็คอ่าน - Ss
+║❂͜͡☆➣ เช็คคนอ่าน - Vv
+║❂͜͡☆➣ Setlastpoint
+║❂͜͡☆➣ Viewlastseen
+║❂͜͡☆➣ เปิดลิงก์ - Link on
+║❂͜͡☆➣ ปิดลิงก์ - Link off
+║❂͜͡☆➣ ดึงลิงก์ - Gurl
+║❂͜͡☆➣ Qr group /
+║❂͜͡☆➣ Remove chat
+║❂͜͡☆➣ Bot restart
+╰════════╬♥╬════════╯
+╭════════╬♥╬════════╮ 
+║      ★ CHAT RELATED ★
+║❂͜͡☆➣ Lyric [text]
+║❂͜͡☆➣ Music [text]
+║❂͜͡☆➣ Wiki [text]
+║❂͜͡☆➣ Video [text]
+║❂͜͡☆➣ Youtube [text]
+║❂͜͡☆➣ Instagram [text]
+║❂͜͡☆➣ แปล-idn [text] indo
+║❂͜͡☆➣ แปล-en [text] eng
+║❂͜͡☆➣ แปล-th [text] thai
+║❂͜͡☆➣ แปล-jp [text] japan
+║❂͜͡☆➣ Emoji [expression]
+║❂͜͡☆➣ Info @[tag]
+║❂͜͡☆➣ Sticker [expression]
+║❂͜͡☆➣ Mention all
+║❂͜͡☆➣ Man tagall
+║❂͜͡☆➣ Time
+║❂͜͡☆➣ /say
+║❂͜͡☆➣ /say-en
+║❂͜͡☆➣ /say-jp
+║❂͜͡☆➣ Dosa @    ❂͜͡☆➣ /
+║❂͜͡☆➣ Siapa
+║❂͜͡☆➣ apakah [kerang ajaib]
+╰════════╬♥╬════════╯
+──────┅═ই۝ई═┅──────
+နับთิஏთั้ଏบਹทV⒑ รับทำเชลบอท(กันรัน)
+สนใจติดต่อที่.. ѕєʟғвот[ᴍ̶̲̅ᴀ̶̲̅ɴ̶̲̅]κɪcκєʀ
+http://line.me/ti/p/~1ove..neverdie
+──────┅═ই۝ई═┅──────
+"""
+helpmessage2="""
+╭════════╬💀╬════════╮ 
+║         ★ BOT-MODIFIER ★
 ║❂͜͡☆➣ Bot1 rename:[text]
 ║❂͜͡☆➣ Bot2 rename:[text]
 ║❂͜͡☆➣ Bot3 rename:[text]
@@ -51,77 +193,35 @@ helpMessage= """\n
 ║❂͜͡☆➣ Bot6 rename:[text]
 ║❂͜͡☆➣ All rename:[text]
 ║❂͜͡☆➣ Allbio:[text]
-║❂͜͡☆➣ Bot1 clone @[name]
-║❂͜͡☆➣ Bot2 clone @[name]
-║❂͜͡☆➣ Bot3 clone @[name]
-║❂͜͡☆➣ Bot4 clone @[name]
-║❂͜͡☆➣ Bot5 clone @[name]
-║❂͜͡☆➣ Bot6 clone @[name]
-║❂͜͡☆➣ Comment:[text]
-║❂͜͡☆➣ Message:[text]
+║❂͜͡☆➣ Bot1 clone @[tag]
+║❂͜͡☆➣ Bot2 clone @[tag]
+║❂͜͡☆➣ Bot3 clone @[tag]
+║❂͜͡☆➣ Bot4 clone @[tag]
+║❂͜͡☆➣ Bot5 clone @[tag]
+║❂͜͡☆➣ Bot6 clone @[tag]
 ║❂͜͡☆➣ Bot1-6 backup run
 ║❂͜͡☆➣ Bot1-6 backup
+║❂͜͡☆➣ [ Backup all ]
 ║❂͜͡☆➣ Group name:[text]
-╰════════╬♥╬════════╯
-╭════════╬♥╬════════╮ 
-║   ★ PROMOTE/DEMOTE ★
-║❂͜͡☆➣ Admin on @[name]
-║❂͜͡☆➣ Expel on @[name]
-║❂͜͡☆➣ Expelall
-║❂͜͡☆➣ Set member:
-╰════════╬♥╬════════╯
-╭════════╬♥╬════════╮ 
-║         ★ STEALING ★
-║❂͜͡☆➣ Hack name    @[name]
-║❂͜͡☆➣ Hack Bio     @[name]
-║❂͜͡☆➣ Hack status  @[name]
-║❂͜͡☆➣ Hack mid     @[name]
-║❂͜͡☆➣ Hack contact @[name]
-║❂͜͡☆➣ Hack cover   @[name]
-║❂͜͡☆➣ Hack pict    @[name]
-║❂͜͡☆➣ [Hack pict group]
-║❂͜͡☆➣ Midpict:[mid]
-║❂͜͡☆➣ Copy @[name]
-║❂͜͡☆➣ Backup กลับร่าง
-║❂͜͡☆➣ Backup all
-╰════════╬♥╬════════╯
-╭════════╬♥╬════════╮ 
-║       ★ GUARD MODE ★
-║❂͜͡☆➣ Protect:low
-║❂͜͡☆➣ Protect:hight
-╰════════╬♥╬════════╯
-╭════════╬♥╬════════╮ 
-║       ★ MARK TO LIST ★
-║❂͜͡☆➣ Ban    @[name]
-║❂͜͡☆➣ Unban  @[name]
-║❂͜͡☆➣ Ban group:
-║❂͜͡☆➣ Del ban:
-║❂͜͡☆➣ List ban group
-║❂͜͡☆➣ Banned[send contact]
-║❂͜͡☆➣ Unbanned[send contact]
-║❂͜͡☆➣ Ban repeat @[name]
-║❂͜͡☆➣ Blacklist all 
-║❂͜͡☆➣ Ban cek / Conban
-║❂͜͡☆➣ Clear banlist / Cb
-║❂͜͡☆➣ Mimic target @[name]
-║❂͜͡☆➣ Mimic untarget @[name]
-║❂͜͡☆➣ Add friend @[name]
-║❂͜͡☆➣ Target @[name]
-║❂͜͡☆➣ Del target @[name]
-║❂͜͡☆➣ Target list
-╰════════╬♥╬════════╯
-╭════════╬♥╬════════╮ 
-║        ★ INVITATION ★
+╰════════╬💀╬════════╯
+╭════════╬💀╬════════╮
+║  ★ BOT INVITATION GROUP ★
+║❂͜͡☆➣ Bot1   @join
+║❂͜͡☆➣ Bot2   @join
+║❂͜͡☆➣ Bot3   @join
+║❂͜͡☆➣ Bot4   @join
+║❂͜͡☆➣ Bot5   @join
+║❂͜͡☆➣ Bot6   @join
+║❂͜͡☆➣ Team   @join
+║❂͜͡☆➣ •••  / Kicker
 ║❂͜͡☆➣ Invite:[mid]
-║❂͜͡☆➣ Invite user[contact]
-║❂͜͡☆➣ เชิญ    อย่าส่งข้อมูล
 ║❂͜͡☆➣ Invite me
 ║❂͜͡☆➣ Man@join
-║❂͜͡☆➣ •••  /  Kicker
-║❂͜͡☆➣ Join group
-╰════════╬♥╬════════╯
-╭════════╬♥╬════════╮ 
-║       ★ LEAVE GROUP ★
+║❂͜͡☆➣ Invite user [contact]
+║❂͜͡☆➣ เชิญ ↔ [อย่าลืมส่งข้อมูล]
+╰════════╬💀╬════════╯
+╭════════╬💀╬════════╮ 
+║       ★ BOT LEAVE GROUP ★
 ║❂͜͡☆➣ Bot1   @bye
 ║❂͜͡☆➣ Bot2   @bye
 ║❂͜͡☆➣ Bot3   @bye
@@ -133,140 +233,45 @@ helpMessage= """\n
 ║❂͜͡☆➣ Man@bye / Bye
 ║❂͜͡☆➣ Bye allgroups[own]
 ║❂͜͡☆➣ Leave group:
-╰════════╬♥╬════════╯
-╭════════╬♥╬════════╮ 
+╰════════╬💀╬════════╯
+╭════════╬💀╬════════╮
+║     ★ KICKER MODE BOT ★
+║❂͜͡☆➣ Vkick @[tag]
+║❂͜͡☆➣ Kick @[tag]
+║❂͜͡☆➣ Kick:[mid]
+║❂͜͡☆➣ Kick all
+║❂͜͡☆➣ Nk @[tag]
+║❂͜͡☆➣ Fuck @[tag]
+║❂͜͡☆➣ Error!
+║❂͜͡☆➣ Purge
+║❂͜͡☆➣ Cleanse
+╰════════╬💀╬════════╯
+"""
+helpmessage3="""
+╭════════╬📇╬════════╮ 
 ║ ★ BOT AUTO SETTINGS ★
+║❂͜͡☆➣ Gcancel:[number] 1 on
 ║❂͜͡☆➣ Auto join:on/off
 ║❂͜͡☆➣ Auto leave:on/off
 ║❂͜͡☆➣ Auto like:on/off
-║❂͜͡☆➣ Welcome message:on/off
 ║❂͜͡☆➣ Auto notice:on/off
 ║❂͜͡☆➣ Blockinvite:on/off
 ║❂͜͡☆➣ Auto blockqr:on/off
 ║❂͜͡☆➣ Namelock:on/off
 ║❂͜͡☆➣ Mimic:on/off
 ║❂͜͡☆➣ Auto add:on/off
+║❂͜͡☆➣ Auto message:on/off
+║❂͜͡☆➣ Set.message:[text]
 ║❂͜͡☆➣ Check message
-║❂͜͡☆➣ Add message:[text]
 ║❂͜͡☆➣ Comment:on/off
-║❂͜͡☆➣ Add comment:[text]
+║❂͜͡☆➣ Set.comment:[text]
 ║❂͜͡☆➣ Check comment
-║❂͜͡☆➣ Backup:on/off
-║❂͜͡☆➣ Gcancel:[number]
-║❂͜͡☆➣ Update welcome:[text]
-║❂͜͡☆➣ Check welcome message
-╰════════╬♥╬════════╯
-╭════════╬♥╬════════╮ 
-║      ★ CANCEL MODE ★
-║❂͜͡☆➣ Rejectall
-║❂͜͡☆➣ Clean invites
-║❂͜͡☆➣ Clear invites
-╰════════╬♥╬════════╯
-╭════════╬♥╬════════╮ 
-║     ★ SUPRISE GIFT ★
-║❂͜͡☆➣ gift1-15
-║❂͜͡☆➣ Spam gift
-╰════════╬♥╬════════╯
-╭════════╬♥╬════════╮ 
-║ ★ NOTIFICATION LIST ★
-║❂͜͡☆➣ Group list
-║❂͜͡☆➣ Banlist
-║❂͜͡☆➣ Admin list
-║❂͜͡☆➣ Settings
-║❂͜͡☆➣ Ginfo
-║❂͜͡☆➣ TL:[text]
-║❂͜͡☆➣ Mimic list
-║❂͜͡☆➣ Details grup:
-║❂͜͡☆➣ Crash
-║❂͜͡☆➣ Add all
-╰════════╬♥╬════════╯
-╭════════╬♥╬════════╮ 
-║       ★ KICKER MODE ★
-║❂͜͡☆➣ Cleanse
-║❂͜͡☆➣ Vkick @
-║❂͜͡☆➣ Nk [name]
-║❂͜͡☆➣ Kick:[mid]
-║❂͜͡☆➣ Purge
-║❂͜͡☆➣ Error!
-║❂͜͡☆➣ Recover
-╰════════╬♥╬════════╯
-╭════════╬♥╬════════╮ 
-║      ★ CHAT RELATED ★
-║❂͜͡☆➣ Spamg [on/off]
-║❂͜͡☆➣ Spam add:[text]
-║❂͜͡☆➣ Spam change:[text]
-║❂͜͡☆➣ Spam start:[number]
-║❂͜͡☆➣ Say [text]
-║❂͜͡☆➣ Me
-║❂͜͡☆➣ Speed
-║❂͜͡☆➣ Debug speed
-║❂͜͡☆➣ Mid
-║❂͜͡☆➣ Gcreator
-║❂͜͡☆➣ Halo
-║❂͜͡☆➣ Bot contact
-║❂͜͡☆➣ Bot mid
-║❂͜͡☆➣ Creator
-║❂͜͡☆➣ System
-║❂͜͡☆➣ Iconfig
-║❂͜͡☆➣ Kernel
-║❂͜͡☆➣ Cpu
-║❂͜͡☆➣ Responsename
-║❂͜͡☆➣ Help
-║❂͜͡☆➣ Mc:[mid]
-╰════════╬♥╬════════╯
-╭════════╬♥╬════════╮ 
-║           ★ UTILITY ★
-║❂͜͡☆➣ ตั้งค่าเช็คอ่าน - Ss
-║❂͜͡☆➣ เช็คคนอ่าน - Vv
-║❂͜͡☆➣ Setlastpoint
-║❂͜͡☆➣ Viewlastseen
-║❂͜͡☆➣ เปิดลิงก์ - Link on
-║❂͜͡☆➣ ปิดลิงก์ - Link off
-║❂͜͡☆➣ Qr group / Gurl
-║❂͜͡☆➣ Remove chat
-║❂͜͡☆➣ Bot restart
-╰════════╬♥╬════════╯
-╭════════╬♥╬════════╮ 
-║      ★ CHAT RELATED ★
-║❂͜͡☆➣ Lyric [][]
-║❂͜͡☆➣ Music [][]
-║❂͜͡☆➣ Wiki [text]
-║❂͜͡☆➣ Vidio [text]
-║❂͜͡☆➣ Youtube [text]
-║❂͜͡☆➣ Instagram [text]
-║❂͜͡☆➣ แปล-idn [text]
-║❂͜͡☆➣ แปล-eng [text]
-║❂͜͡☆➣ แปล-thai [text]
-║❂͜͡☆➣ แปล-japan [text]
-║❂͜͡☆➣ Emoji [expression]
-║❂͜͡☆➣ Info @[name]
-║❂͜͡☆➣ apakah [kerang ajaib]
-║❂͜͡☆➣ Sticker [expression]
-║❂͜͡☆➣ Mention all
-║❂͜͡☆➣ Man tagall
-║❂͜͡☆➣ Time
-║❂͜͡☆➣ /say
-║❂͜͡☆➣ /say-en
-║❂͜͡☆➣ /say-jp
-║❂͜͡☆➣ Dosa @    ❂͜͡☆➣ /
-║❂͜͡☆➣ Siapa
-╰════════╬♥╬════════╯
-╭════════╬♥╬════════╮ 
-║     ★ BROADCASTING ★
-║❂͜͡☆➣ Pm cast   [text]
-║❂͜͡☆➣ Broadcast [text]
-║❂͜͡☆➣ Spam @[name]
-╰════════╬♥╬════════╯
-╭════════╬♥╬════════╮ 
-║    ★ special command ★
-║❂͜͡☆➣ Turn off bots
-╰════════╬♥╬════════╯ 
-──────┅═ই۝ई═┅──────
-နับთิஏთั้ଏบਹทV⒑ รับทำเชลบอท(กันรัน)
-สนใจติดต่อที่  ѕєʟғвот[ᴍ̶̲̅ᴀ̶̲̅ɴ̶̲̅]κɪcκєʀ
-http://line.me/ti/p/~1ove..neverdie
-──────┅═ই۝ई═┅──────
+║❂͜͡☆➣ Welcome:on/off
+║❂͜͡☆➣ Set.welcome:[text]
+║❂͜͡☆➣ Check welcome
+╰════════╬📇╬════════╯
 """
+
 KAC=[cl,ki,kk,kc,ks,kt]
 mid = cl.getProfile().mid
 Amid = ki.getProfile().mid
@@ -275,7 +280,6 @@ Cmid = kc.getProfile().mid
 Dmid = ks.getProfile().mid
 Emid = kt.getProfile().mid
 #Fmid = kl.getProfile().mid
-
 protectname = []
 protecturl = []
 protection = []
@@ -293,10 +297,10 @@ wait = {
     'leaveRoom':True,
     'timeline':True,
     'autoAdd':False,
-    'message':"Thanks for add Me",
+    'message':"Thanks For Add Me..😘 \n\nCreator : SELFBOT-MAN-PC \n•─ ͜͡✫ѕєʟғвот[ᴍ̶̲̅ᴀ̶̲̅ɴ̶̲̅]κɪcκєʀ ͜͡✫─•\n[รับทำเชลบอท]\n • ชุดป้องกัน Protect-bot\n • Selfbot+kicker เป็นบอทส่วนตัว ใช้คุมตัวเองได้ดี\nเมื่อมีใครมาลบเราออกจากกลุ่ม บอทคิกเกอร์จะเตะคนลบคุณ\nหลังจากนั้น..คิกเกอร์ส่วนตัวของคุณจะเชิญคุณด้วยระบบออโต้\n • ชุดบอทแท๊ก Tag all สามารถแท๊กสมาชิกได้ทั้งกลุ่ม\nเหมาะมากสำหรับ ทีมค้าขายออนไลน์ แท๊กเรียกสมาชิก มาชวนชมสินค้าของเราได้ดี\n • ชุดบอทบินก็มีคับ แต่ผมไม่แนะนำ (มีครบทุกฟังชั่น)\n\n • 📧https://line.me/ti/p/~1ove..neverdie ",
     "lang":"JP",
-    "comment":"AutoLike.. by SELFBOT MAN-PC \n•─ ͜͡✫ѕєʟғвот[ᴍ̶̲̅ᴀ̶̲̅ɴ̶̲̅]κɪcκєʀ ͜͡✫─•\n📧https://line.me/ti/p/~1ove..neverdie ",
-    "welmsg":"welcome to group",
+    "comment":"AutoLike.. by SELFBOT-MAN-PC \n•─ ͜͡✫ѕєʟғвот[ᴍ̶̲̅ᴀ̶̲̅ɴ̶̲̅]κɪcκєʀ ͜͡✫─•\n📧https://line.me/ti/p/~1ove..neverdie ",
+    "welmsg":"Welcome to group by.SELFBOT-MAN-PC",
     "commentOn":True,
     "commentBlack":{},
     "wblack":False,
@@ -310,7 +314,7 @@ wait = {
     "wblacklist":False,
     "dblacklist":False,
     "qr":False,
-    "welcomemsg":False,
+    "welcomemsg":True,
     "Backup":False,
     "protectionOn":False,
     "winvite":False,
@@ -977,6 +981,7 @@ def bot(op):
                     try:
                         gs = ki.getGroup(op.param1)
                         gs = kk.getGroup(op.param1)
+			gs = kc.getGroup(op.param1)
                         targets = [op.param2]
                         for target in targets:
                            try:
@@ -2170,9 +2175,9 @@ def bot(op):
                if msg.from_ in admin:
 			cl.sendText(msg.to,mid)
  #=======================================================
-            elif "แปล-eng " in msg.text:
+            elif "แปล-en " in msg.text:
               if msg.from_ in admin:
-                txt = msg.text.replace("แปล-eng ","")
+                txt = msg.text.replace("แปล-en ","")
                 try:
                     gs = goslate.Goslate()
                     trs = gs.translate(txt,'en')
@@ -2190,9 +2195,9 @@ def bot(op):
                     print '[Command] Translate jp'
                 except Exception as error:
                     cl.sendText(msg.to,(error))
-            elif "แปล-thai " in msg.text:
+            elif "แปล-th " in msg.text:
               if msg.from_ in admin:
-                txt = msg.text.replace("แปล-thai ","")
+                txt = msg.text.replace("แปล-th ","")
                 try:
                     gs = goslate.Goslate()
                     trs = gs.translate(txt,'th')
@@ -2254,17 +2259,17 @@ def bot(op):
                         cl.sendText(msg.to,"Protection QR PRO Off\n\n"+ datetime.today().strftime('%H:%M:%S'))
                     else:
                         cl.sendText(msg.to,"Already off\n\n"+ datetime.today().strftime('%H:%M:%S'))
-            elif msg.text in ["Welcome message:on"]:
+            elif msg.text in ["Welcome message:on","Welcome on","เปิดต้อนรับ"]:
               if msg.from_ in admin:
                 if wait["welcomemsg"] == True:
                     if wait["lang"] == "JP":
-                        cl.sendText(msg.to,"welcome message on\n\n"+ datetime.today().strftime('%H:%M:%S'))
+                        cl.sendText(msg.to,"Welcome message on\n\n"+ datetime.today().strftime('%H:%M:%S'))
                     else:
-                        cl.sendText(msg.to,"welcome message on\n\n"+ datetime.today().strftime('%H:%M:%S'))
+                        cl.sendText(msg.to,"Welcome message on\n\n"+ datetime.today().strftime('%H:%M:%S'))
                 else:
                     wait["welcomemsg"] = True
                     if wait["lang"] == "JP":
-                        cl.sendText(msg.to,"welcome message on\n\n"+ datetime.today().strftime('%H:%M:%S'))
+                        cl.sendText(msg.to,"Welcome message on\n\n"+ datetime.today().strftime('%H:%M:%S'))
                     else:
                         cl.sendText(msg.to,"welcome message on")
             elif msg.text in ["Auto blockqr:on","auto blockqr:on","Qr on"]:
@@ -2280,19 +2285,19 @@ def bot(op):
                         cl.sendText(msg.to,"Protection QR PRO On\n\n"+ datetime.today().strftime('%H:%M:%S'))
                     else:
                         cl.sendText(msg.to,"Already on")
-            elif msg.text in ["Welcome message:off","Welcome off"]:
+            elif msg.text in ["Welcome message:off","Welcome off","ปิดต้อนรับ"]:
               if msg.from_ in admin:
                 if wait["welcomemsg"] == False:
                     if wait["lang"] == "JP":
-                        cl.sendText(msg.to,"welcome message off\n\n"+ datetime.today().strftime('%H:%M:%S'))
+                        cl.sendText(msg.to,"Welcome message off\n\n"+ datetime.today().strftime('%H:%M:%S'))
                     else:
-                        cl.sendText(msg.to,"welcome message off\n\n"+ datetime.today().strftime('%H:%M:%S'))
+                        cl.sendText(msg.to,"Welcome message off\n\n"+ datetime.today().strftime('%H:%M:%S'))
                 else:
                     wait["welcomemsg"] = False
                     if wait["lang"] == "JP":
-                        cl.sendText(msg.to,"welcome message off\n\n"+ datetime.today().strftime('%H:%M:%S'))
+                        cl.sendText(msg.to,"Welcome message off\n\n"+ datetime.today().strftime('%H:%M:%S'))
                     else:
-                        cl.sendText(msg.to,"welcome message off\n\n"+ datetime.today().strftime('%H:%M:%S'))
+                        cl.sendText(msg.to,"Welcome message off\n\n"+ datetime.today().strftime('%H:%M:%S'))
             elif msg.text in ["Protect:low","Protect:low"]:
               if msg.from_ in admin:
                 if wait["protectionOn"] == False:
@@ -2520,8 +2525,8 @@ def bot(op):
                 else:md+="❎ Backup : off\n"
                 if wait["qr"] == True: md+="✔️ Protect QR : on\n"
                 else:md+="❎ Protect QR : off\n"
-                if wait["welcomemsg"] == True: md+="✔️ welcome message : on\n"
-                else:md+="❎ welcome message : off\n"
+                if wait["welcomemsg"] == True: md+="✔️ Welcome : on\n"
+                else:md+="❎ Welcome msg: off\n"
                 if wait["protectionOn"] == True: md+="Protection : hight\n\n"+ datetime.today().strftime('%H:%M:%S')
                 else:md+="Protection : low\n\n"+ datetime.today().strftime('%H:%M:%S')
                 cl.sendText(msg.to,md)
@@ -2530,7 +2535,7 @@ def bot(op):
             elif "Time" in msg.text:
               if msg.from_ in admin:
                   cl.sendText(msg.to,datetime.today().strftime('%H:%M:%S'))
-            elif msg.text in ["PING","Ping","ping"]:
+            elif msg.text in ["MAN","Bot?","MAN-PC"]:
               if msg.from_ in admin:
                 ki.sendText(msg.to,"✯✯❇Thailand✯Creator❇✯✯\n•─ ͜͡✫ѕєʟғвот[ᴍ̶̲̅ᴀ̶̲̅ɴ̶̲̅]κɪcκєʀ ͜͡✫─•")
                 kk.sendText(msg.to,"✯✯❇Thailand✯Creator❇✯✯\n•─ ͜͡✫ѕєʟғвот[ᴍ̶̲̅ᴀ̶̲̅ɴ̶̲̅]κɪcκєʀ ͜͡✫─•")
@@ -2550,10 +2555,35 @@ def bot(op):
                             cover = cl.channel.getCover(g.mid)
                         except:
                             cover = ""
-                        cl.sendText(msg.to,"[Display Name]:\n" + gjh.displayName + "\n[Mid]:\n" + gjh.mid + "\n[BIO]:\n" + gjh.statusMessage + "\n[pict profile]:\nhttp://dl.profile.line-cdn.net/" + gjh.pictureStatus + "\n[Cover]:\n" + str(cover))
+                        cl.sendText(msg.to,"[Display Name]:\n" + gjh.displayName + "\n[Mid]:\n" + gjh.mid + "\n[Status]:\n" + gjh.statusMessage + "\n[Pict profile]:\nhttp://dl.profile.line-cdn.net/" + gjh.pictureStatus + "\n[Cover]:\n" + str(cover))
                     else:
                         pass
 #-----------------------------------------------
+            elif "Hack all @" in msg.text:
+              if msg.from_ in admin:
+                nama = msg.text.replace("Hack all @","")
+                target = nama.rstrip(' ')
+                tob = cl.getGroup(msg.to)
+                for g in tob.members:
+                    if target == g.displayName:
+                        gjh= cl.getContact(g.mid)
+                        try:
+                            cover = cl.channel.getCover(g.mid)
+                        except:
+                            cover = ""
+                        cl.sendText(msg.to,"「Creator」: SELFBOT-MAN-PC \n\n「Display-Name」: ⤵️\n" + gjh.displayName + "\n「Hack-Mid」: ⤵️\n" + gjh.mid + "\n「Hack-Status」: ⤵️\n" + gjh.statusMessage + "\n「Hack-Profile」: ⤵️\n http://dl.profile.line-cdn.net/" + gjh.pictureStatus + "\n「Hack-Cover」: ⤵️\n" + str(cover))
+                    else:
+                        pass
+#-----------------------------------------------
+            elif "Hack contact" in msg.text:
+              if msg.from_ in admin:
+                key = eval(msg.contentMetadata["MENTION"])
+                key1 = key["MENTIONEES"][0]["M"]                
+                mmid = cl.getContact(key1)
+                msg.contentType = 13
+                msg.contentMetadata = {"mid": key1}
+                cl.sendMessage(msg)
+#-------------------------
             elif msg.text in ["Backup:on"]:
               if msg.from_ in admin:
                 if wait["Backup"] == True:
@@ -2589,8 +2619,17 @@ def bot(op):
                     cl.sendText(msg.to,"All Invites has been Rejected")
                 else:
                     cl.sendText(msg.to,"拒绝了全部的邀请。")
+            elif msg.text in ["Reject1","ลบรันบอท1"]:
+              if msg.from_ in admin:
+                gid = ki.getGroupIdsInvited()
+                for i in gid:
+                    ki.rejectGroupInvitation(i)
+                if wait["lang"] == "JP":
+                    ki.sendText(msg.to,"All Invites Rejected Bot1")
+                else:
+                    ki.sendText(msg.to,"拒绝了全部的邀请。")
            
-            elif msg.text in ["Auto add:on"]:
+            elif msg.text in ["Auto add:on","Add on"]:
               if msg.from_ in admin:
                 if wait["autoAdd"] == True:
                     if wait["lang"] == "JP":
@@ -2603,7 +2642,7 @@ def bot(op):
                         cl.sendText(msg.to,"success activated")
                     else:
                         cl.sendText(msg.to,"success activated")
-            elif msg.text in ["Auto add:off"]:
+            elif msg.text in ["Auto add:off","Add off"]:
               if msg.from_ in admin:
                 if wait["autoAdd"] == False:
                     if wait["lang"] == "JP":
@@ -2617,21 +2656,20 @@ def bot(op):
                     else:
                         cl.sendText(msg.to,"success unactivated")
 #========================================
-#========================================
-            elif "Update welcome:" in msg.text:
+            elif "Set.welcome:" in msg.text:
               if msg.from_ in admin:
-                wait["welmsg"] = msg.text.replace("Update welcome:","")
-                cl.sendText(msg.to,"update welcome message succes"+ datetime.today().strftime('%H:%M:%S'))
-            elif msg.text in ["Check welcome message"]:
+                wait["welmsg"] = msg.text.replace("Set.welcome:","")
+                cl.sendText(msg.to,"Update welcome message succes"+ datetime.today().strftime('%H:%M:%S'))
+            elif msg.text in ["Check welcome"]:
               if msg.from_ in admin:
                 if wait["lang"] == "JP":
-                    cl.sendText(msg.to,"yor bot message\n\n" + wait["welmsg"])
+                    cl.sendText(msg.to,"yor bot Welcome message\n\n" + wait["welmsg"])
                 else:
                     cl.sendText(msg.to,"The automatic appending information is set as follows。\n\n" + wait["welmsg"])
-            elif "Message:" in msg.text:
+            elif "Set.message:" in msg.text:
               if msg.from_ in admin:
-                wait["message"] = msg.text.replace("Message:","")
-                cl.sendText(msg.to,"bot message\n\n"+ datetime.today().strftime('%H:%M:%S'))
+                wait["message"] = msg.text.replace("Set.message:","")
+                cl.sendText(msg.to,"Update message\n\n"+ datetime.today().strftime('%H:%M:%S'))
             elif "Add message:" in msg.text:
               if msg.from_ in admin:
                 wait["message"] = msg.text.replace("Add message:","")
@@ -2645,9 +2683,9 @@ def bot(op):
                     cl.sendText(msg.to,"yor bot message\n\n" + wait["message"])
                 else:
                     cl.sendText(msg.to,"The automatic appending information is set as follows。\n\n" + wait["message"])
-            elif "Comment:" in msg.text:
+            elif "Set.comment:" in msg.text:
               if msg.from_ in admin:
-                c = msg.text.replace("Comment:","")
+                c = msg.text.replace("Set.comment:","")
                 if c in [""," ","\n",None]:
                     cl.sendText(msg.to,"String that can not be changed")
                 else:
@@ -2662,7 +2700,7 @@ def bot(op):
                     wait["comment"] = c
                     cl.sendText(msg.to,"changed\n\n" + c)
 
-            elif msg.text in ["Comment:on"]:
+            elif msg.text in ["Comment:on","Come on"]:
               if msg.from_ in admin:
                 if wait["commentOn"] == True:
                     if wait["lang"] == "JP":
@@ -2675,7 +2713,7 @@ def bot(op):
                         cl.sendText(msg.to,"Done")
                     else:
                         cl.sendText(msg.to,"Already on")
-            elif msg.text in ["Comment:off"]:
+            elif msg.text in ["Comment:off","Come off"]:
               if msg.from_ in admin:
                 if wait["commentOn"] == False:
                     if wait["lang"] == "JP":
@@ -2707,7 +2745,29 @@ def bot(op):
                     else:
                         uye.sendText(msg.to,"Not for use less than group")
 #===========================================
-            elif msg.text.lower() == 'responsename':
+            elif msg.text.lower() == 'respons':
+              if msg.from_ in admin:
+                profile = cl.getProfile()
+                text = profile.displayName + ""
+                cl.sendText(msg.to, text)
+                profile = ki.getProfile()
+                text = profile.displayName + ""
+                ki.sendText(msg.to, text)
+                profile = kk.getProfile()
+                text = profile.displayName + ""
+                kk.sendText(msg.to, text)
+                profile = kc.getProfile()
+                text = profile.displayName + ""
+                kc.sendText(msg.to, text)
+                profile = ks.getProfile()
+                text = profile.displayName + ""
+                ks.sendText(msg.to, text)
+                profile = kt.getProfile()
+                text = profile.displayName + ""
+                kt.sendText(msg.to, text)
+#========================================
+#===========================================
+            elif msg.text.lower() == 'namebot':
               if msg.from_ in admin:
                 profile = cl.getProfile()
                 text = profile.displayName + ""
@@ -3084,8 +3144,9 @@ def bot(op):
                             h = "[" + groups.name + "]\n -+GroupID : " + gid + "\n -+Members : " + members + "\n -+MembersPending : " + pendings + "\n -+Creator : " + groups.creator.displayName + "\n -+GroupPicture : http://dl.profile.line.naver.jp/" + groups.pictureStatus
                             cl.sendText(msg.to,h)
                         except Exception as error:
-                            cl.sendText(msg.to,(error))#-------------------------------------------------------
-            elif 'Crash' in msg.text:
+                            cl.sendText(msg.to,(error))
+#-------------------------------------------------------
+            elif 'selfbotman' in msg.text:
                 msg.contentType = 13
                 msg.contentMetadata = {'mid': "ud24af63fd62d14c3bf8f719df80c3745"}
                 cl.sendMessage(msg)
@@ -3164,9 +3225,9 @@ def bot(op):
 			    pass
 		else:
 		    cl.sendText(msg.to,"Khusus Creator")
-            elif "Set member: " in msg.text:
+            elif "Set.member: " in msg.text:
 		if msg.from_ in admin:
-		    jml = msg.text.replace("Set member: ","")
+		    jml = msg.text.replace("Set.member: ","")
 		    wait["Members"] = int(jml)
 		    cl.sendText(msg.to, "Jumlah minimal member telah di set : "+jml)
 		else:
@@ -3242,8 +3303,8 @@ def bot(op):
                 ki.sendText(msg.to, "•─ ͜͡✫ѕєʟғвот[ᴍ̶̲̅ᴀ̶̲̅ɴ̶̲̅]κɪcκєʀ ͜͡✫─•\nความเร็ว﴾ %s ﴿ต่อวินาที" % (elapsed_time))
                 kk.sendText(msg.to, "•─ ͜͡✫ѕєʟғвот[ᴍ̶̲̅ᴀ̶̲̅ɴ̶̲̅]κɪcκєʀ ͜͡✫─•\nความเร็ว﴾ %s ﴿ต่อวินาที" % (elapsed_time))
                 kc.sendText(msg.to, "•─ ͜͡✫ѕєʟғвот[ᴍ̶̲̅ᴀ̶̲̅ɴ̶̲̅]κɪcκєʀ ͜͡✫─•\nความเร็ว﴾ %s ﴿ต่อวินาที" % (elapsed_time))
-                kd.sendText(msg.to, "•─ ͜͡✫ѕєʟғвот[ᴍ̶̲̅ᴀ̶̲̅ɴ̶̲̅]κɪcκєʀ ͜͡✫─•\nความเร็ว﴾ %s ﴿ต่อวินาที" % (elapsed_time))
-                ke.sendText(msg.to, "•─ ͜͡✫ѕєʟғвот[ᴍ̶̲̅ᴀ̶̲̅ɴ̶̲̅]κɪcκєʀ ͜͡✫─•\nความเร็ว﴾ %s ﴿ต่อวินาที" % (elapsed_time))
+                ks.sendText(msg.to, "•─ ͜͡✫ѕєʟғвот[ᴍ̶̲̅ᴀ̶̲̅ɴ̶̲̅]κɪcκєʀ ͜͡✫─•\nความเร็ว﴾ %s ﴿ต่อวินาที" % (elapsed_time))
+                kt.sendText(msg.to, "•─ ͜͡✫ѕєʟғвот[ᴍ̶̲̅ᴀ̶̲̅ɴ̶̲̅]κɪcκєʀ ͜͡✫─•\nความเร็ว﴾ %s ﴿ต่อวินาที" % (elapsed_time))
 # -------------------------------------------------------- 
             elif msg.text in ["Bot1 backup run"]:
                 if msg.from_ in admin:
@@ -3836,19 +3897,14 @@ def bot(op):
                 for var in range(0,num):
                     cl.sendText(msg.to, wait["spam"])
 
-#-------------------Fungsi spam finish----------------------------
-#-----------------------------------------------
-#-----------------------------------------------
+#-------------------Fungsi spam finish--------------------------
             elif 'apakah' in msg.text.lower():
               if msg.from_ in admin:
                 tanya = msg.text.lower().replace("apakah","")
                 jawab = ("Ya","Tidak","Mungkin","Bisa jadi")
                 jawaban = random.choice(jawab)
                 cl.sendText(msg.to,jawaban)
-            
-#================================================
 #===============================================
-#=================================================
             elif "Spamg " in msg.text:
                 if msg.from_ in admin:
                    txt = msg.text.split(" ")
@@ -3946,11 +4002,12 @@ def bot(op):
 				else:
 					ki.sendText(msg.to,"He declined all invitations")
 #=============≠============================================
-            elif msg.text in ["Team @bye","Man@bye","Bye","Bot bye"]:
+            elif msg.text in ["Team @bye","Man@bye","Bye","บอทออก"]:
               if msg.from_ in admin:
                 if msg.toType == 2:
-                   X = cl.getGroup(msg.to)
+                   ginfo = cl.getGroup(msg.to)
                 try:
+                     ki.sendText(msg.to,"ผู้สร้างกลุ่ม : " + str(ginfo.name) + " :\n" + ginfo.creator.displayName )
                      ki.leaveGroup(msg.to)
                      kk.leaveGroup(msg.to)
                      kc.leaveGroup(msg.to)
@@ -3989,7 +4046,6 @@ def bot(op):
                                    ki.kickoutFromGroup(msg.to,[target])
                                except:
 			           random.choice(KAC).kickoutFromGroup(msg.to,[target])
-								
 #==========================================
             elif "youtube " in msg.text.lower():
                 if msg.from_ in admin:
@@ -4004,10 +4060,10 @@ def bot(op):
                            cl.sendText(msg.to, isi[0])
                    except Exception as e:
                        cl.sendText(msg.to, str(e))
-            elif 'Vidio ' in msg.text:
+            elif 'Video ' in msg.text:
 	      if msg.from_ in admin:
                 try:
-                    textToSearch = (msg.text).replace('Vidio ', "").strip()
+                    textToSearch = (msg.text).replace('Video ', "").strip()
                     query = urllib.quote(textToSearch)
                     url = "https://www.youtube.com/results?search_query=" + query
                     response = urllib2.urlopen(url)
@@ -4072,13 +4128,13 @@ def bot(op):
                 t2 = "\xf4\x80\x82\xb3\xf4\x8f\xbf\xbf"
                 cl.sendText(msg.to, t1 + txt + t2)
 #-------Cek sider biar mirip kek siri-----------------------------
-            elif "Setlastpoint" in msg.text:
+            elif "แอบ" in msg.text:
                 subprocess.Popen("echo '' > dataSeen/"+msg.to+".txt", shell=True, stdout=subprocess.PIPE)
                 #cl.sendText(msg.to, "Checkpoint checked!")
                 cl.sendText(msg.to, "Set the lastseens' point(｀・ω・´)\n\n" + datetime.now().strftime('%H:%M:%S'))
                 print "Setlastpoint"
 #--------------------------------------------
-            elif "Viewlastseen" in msg.text:
+            elif "อ่าน" in msg.text:
 	        lurkGroup = ""
 	        dataResult, timeSeen, contacts, userList, timelist, recheckData = [], [], [], [], [], []
                 with open('dataSeen/'+msg.to+'.txt','r') as rr:
@@ -4144,10 +4200,21 @@ def bot(op):
 						try:
 							cl.kickoutFromGroup(msg.to,[target])
 						except:
-							cl.sendText(msg.to,"Error")
+							ki.sendText(msg.to,"SELFBOT MAN-PC")
+
+            elif ("Kick1" in msg.text):
+				if msg.from_ in admin:
+					targets = []
+					key = eval(msg.contentMetadata["MENTION"])
+					key["MENTIONEES"][0]["M"]
+					for x in key["MENTIONEES"]:
+						targets.append(x["M"])
+					for target in targets:
+						try:
+                                                        ki.kickoutFromGroup(msg.to,[target])
+						except:
+							ki.sendText(msg.to,"SELFBOT MAN-PC")
 							
-          
-       
 #-----------------------------------------------------------
                	
 
