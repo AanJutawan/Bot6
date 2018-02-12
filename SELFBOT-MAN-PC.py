@@ -44,49 +44,60 @@ helpMessage= """\n
 ========================
 ─͜͡✫ѕєʟғвот[ᴍ̶̲̅ᴀ̶̲̅ɴ̶̲̅]κɪcκєʀ ͜͡✫─
 ========================
-╭════════╬♥╬════════╮
+╭═══════╬[ᴍ̶̲̅ᴀ̶̲̅ɴ̶̲̅]╬═══════╮
+║★ SELFBOT-MAN-PC RELATED ★
+║❇️ Help / Help2 / Help3 ❇️
+║❂͜͡☆➣ Admin/Creator/ Me
+║❂͜͡☆➣ Speedbot/Speed/Sp
+║❂͜͡☆➣ Debug speed
+║❂͜͡☆➣ Mid
+║❂͜͡☆➣ Gcreator
+║❂͜͡☆➣ Welcome
+║❂͜͡☆➣ Bot contact
+║❂͜͡☆➣ Bot mid
+║❂͜͡☆➣ My bot
+║❂͜͡☆➣ System
+║❂͜͡☆➣ Iconfig
+║❂͜͡☆➣ Kernel
+║❂͜͡☆➣ Cpu
+║❂͜͡☆➣ Respons
+║❂͜͡☆➣ Namebot
+║❂͜͡☆➣ Mc:[mid]
+║❂͜͡☆➣ You @[tag]
+╰════════╬★╬════════╯
+╭════════╬💀╬════════╮ 
+║ ★ NOTIFICATION LIST ★
+║❂͜͡☆➣ Group list
+║❂͜͡☆➣ Banlist
+║❂͜͡☆➣ Admin list
+║❂͜͡☆➣ Settings / Set
+║❂͜͡☆➣ Ginfo
+║❂͜͡☆➣ TL:[text]
+║❂͜͡☆➣ Mimic list
+║❂͜͡☆➣ Details group:
+║❂͜͡☆➣ Creator-Selfbot
+╰════════╬★╬════════╯
+╭════════╬📛╬════════╮
 ║        ★ GUARD MODE ★
 ║❂͜͡☆➣ Protect:low
 ║❂͜͡☆➣ Protect:hight
-╰════════╬♥╬════════╯
-╭════════╬♥╬════════╮
+╰════════╬📛╬════════╯
+╭════════╬⛔╬════════╮
 ║      ★ BROADCASTING ★
 ║❂͜͡☆➣ Pm cast   [text]
 ║❂͜͡☆➣ Broadcast [text]
 ║❂͜͡☆➣ Spam @[name]
-╰════════╬♥╬════════╯
-╭════════╬♥╬════════╮
+╰════════╬⛔╬════════╯
+╭════════╬📛╬════════╮
 ║      ★ SUPRISE GIFT ★
 ║❂͜͡☆➣ gift1-15
 ║❂͜͡☆➣ Spam gift
-╰════════╬♥╬════════╯
-╭════════╬♥╬════════╮
-║     ★ SPICIAL COMEMENT ★
+╰════════╬📛╬════════╯
+╭════════╬⛔╬════════╮
+║    ★ SPICIAL COMEMENT ★
 ║❂͜͡☆➣ Turn off bots
-╰════════╬♥╬════════╯
-╭════════╬♥╬════════╮ 
-║      ★ CANCEL MODE ★
-║❂͜͡☆➣ Rejectall
-║❂͜͡☆➣ Clean invites
-║❂͜͡☆➣ Clear invites
-║❂͜͡☆➣ Cancelall
-╰════════╬🔝╬════════╯
-╭════════╬🔝╬════════╮
-║         ★ HACK STEAL ★
-║❂͜͡☆➣ [Hack pict group]
-║❂͜͡☆➣ Hack name    @[tag]
-║❂͜͡☆➣ Hack Bio     @[tag]
-║❂͜͡☆➣ Hack status  @[tag]
-║❂͜͡☆➣ Hack mid     @[tag]
-║❂͜͡☆➣ Hack contact @[tag]
-║❂͜͡☆➣ Hack cover   @[tag]
-║❂͜͡☆➣ Hack pict    @[tag]
-║❂͜͡☆➣ Midpict:[mid]
-║❂͜͡☆➣ Copy all @[tag]
-║❂͜͡☆➣ Backup กลับร่าง
-║❂͜͡☆➣ Backup all
-╰════════╬♥╬════════╯
-╭════════╬♥╬════════╮
+╰════════╬⛔╬════════╯
+╭═══════╬[ᴍ̶̲̅ᴀ̶̲̅ɴ̶̲̅]╬═══════╮
 ║       ★ MARK TO LIST ★
 ║❂͜͡☆➣ Ban    @[tag]
 ║❂͜͡☆➣ Unban  @[tag]
@@ -105,53 +116,21 @@ helpMessage= """\n
 ║❂͜͡☆➣ Target @[tag]
 ║❂͜͡☆➣ Del target @[tag]
 ║❂͜͡☆➣ Target list
-╰════════╬♥╬════════╯
-╭════════╬♥╬════════╮ 
-║ ★ NOTIFICATION LIST ★
-║❂͜͡☆➣ Group list
-║❂͜͡☆➣ Banlist
-║❂͜͡☆➣ Admin list
-║❂͜͡☆➣ Settings
-║❂͜͡☆➣ Ginfo
-║❂͜͡☆➣ TL:[text]
-║❂͜͡☆➣ Mimic list
-║❂͜͡☆➣ Details group:
-║❂͜͡☆➣ Creator-Selfbot
-╰════════╬♥╬════════╯
-╭════════╬♥╬════════╮
-║★ SELFBOT-MAN-PC RELATED ★
-║❇️ Help / Help2 / Help3 ❇️
-║❂͜͡☆➣ Admin/Creator/ Me
-║❂͜͡☆➣ Speedbot/Speed/Sp
-║❂͜͡☆➣ Debug speed
-║❂͜͡☆➣ Mid
-║❂͜͡☆➣ Gcreator
-║❂͜͡☆➣ Welcome
-║❂͜͡☆➣ Bot contact
-║❂͜͡☆➣ Bot mid
-║❂͜͡☆➣ Creator
-║❂͜͡☆➣ System
-║❂͜͡☆➣ Iconfig
-║❂͜͡☆➣ Kernel
-║❂͜͡☆➣ Cpu
-║❂͜͡☆➣ Respons
-║❂͜͡☆➣ Namebot
-║❂͜͡☆➣ Mc:[mid]
-╰════════╬♥╬════════╯
-╭════════╬♥╬════════╮ 
+╰════════╬★╬════════╯
+╭════════╬💀╬════════╮ 
 ║           ★ UTILITY ★
-║❂͜͡☆➣ ตั้งค่าเช็คอ่าน - Ss
-║❂͜͡☆➣ เช็คคนอ่าน - Vv
-║❂͜͡☆➣ Setlastpoint
-║❂͜͡☆➣ Viewlastseen
+║❂͜͡☆➣ ตั้งค่าเซ็ตเวลา - Ss
+║❂͜͡☆➣ เช็คคนอ่านกลุ่ม - Vv
+║❂͜͡☆➣ Setlastpoint - แอบ
+║❂͜͡☆➣ Viewlastseen - อ่าน
 ║❂͜͡☆➣ เปิดลิงก์ - Link on
 ║❂͜͡☆➣ ปิดลิงก์ - Link off
 ║❂͜͡☆➣ ดึงลิงก์ - Gurl
 ║❂͜͡☆➣ Qr group /
 ║❂͜͡☆➣ Remove chat
 ║❂͜͡☆➣ Bot restart
-╰════════╬♥╬════════╯
-╭════════╬♥╬════════╮ 
+╰════════╬★╬════════╯
+╭════════╬💀╬════════╮ 
 ║      ★ CHAT RELATED ★
 ║❂͜͡☆➣ Lyric [text]
 ║❂͜͡☆➣ Music [text]
@@ -175,11 +154,37 @@ helpMessage= """\n
 ║❂͜͡☆➣ Dosa @    ❂͜͡☆➣ /
 ║❂͜͡☆➣ Siapa
 ║❂͜͡☆➣ apakah [kerang ajaib]
-╰════════╬♥╬════════╯
+╰════════╬★╬════════╯
+╭════════╬💀╬════════╮
+║         ★ HACK STEAL ★
+║❂͜͡☆➣ [Hack pict group]
+║❂͜͡☆➣ Hack name    @[tag]
+║❂͜͡☆➣ Hack Bio     @[tag]
+║❂͜͡☆➣ Hack status  @[tag]
+║❂͜͡☆➣ Hack mid     @[tag]
+║❂͜͡☆➣ Hack contact @[tag]
+║❂͜͡☆➣ Hack cover   @[tag]
+║❂͜͡☆➣ Hack pict    @[tag]
+║❂͜͡☆➣ Mid-pict     :[mid]
+║❂͜͡☆➣ Hack all     @[tag]
+║❂͜͡☆➣ Copy all     @[tag]
+║❂͜͡☆➣ Backup all
+║❂͜͡☆➣ Backup กลับร่างเดิม
+║❂͜͡☆➣ Bot1-6 backup
+╰════════╬★╬════════╯
+╭════════╬💀╬════════╮ 
+║      ★ CANCEL MODE ★
+║❂͜͡☆➣ Rejectall
+║❂͜͡☆➣ Clean invites
+║❂͜͡☆➣ Clear invites
+║❂͜͡☆➣ Cancelall
+╰═══════╬[ᴍ̶̲̅ᴀ̶̲̅ɴ̶̲̅]╬═══════╯
 ──────┅═ই۝ई═┅──────
-နับთิஏთั้ଏบਹทV⒑ รับทำเชลบอท(กันรัน)
+รับทำเชลบอทกันรัน(บอทส่วนตัว)แท๊กได้ทั้งกลุ่ม
 สนใจติดต่อที่.. ѕєʟғвот[ᴍ̶̲̅ᴀ̶̲̅ɴ̶̲̅]κɪcκєʀ
 http://line.me/ti/p/~1ove..neverdie
+နับთิஏთั้ଏบਹທ  Sirichan V⒑
+http://line.me/ti/p/~security_botline
 ──────┅═ই۝ई═┅──────
 """
 helpmessage2="""
@@ -1637,6 +1642,20 @@ def bot(op):
                     cl.sendText(msg.to, helpMessage + datetime.today().strftime('%H:%M:%S'))
                 else:
                     cl.sendText(msg.to,helpt)
+            elif msg.text in ["Help2","help2","Helpbot"]:
+              if msg.from_ in admin:
+                print "\nHelp pick up..."
+                if wait["lang"] == "JP":
+                    cl.sendText(msg.to, helpMessage2 + datetime.today().strftime('%H:%M:%S'))
+                else:
+                    cl.sendText(msg.to,helpt)
+            elif msg.text in ["Help3","help3","Helpset"]:
+              if msg.from_ in admin:
+                print "\nHelp pick up..."
+                if wait["lang"] == "JP":
+                    cl.sendText(msg.to, helpMessage3 + datetime.today().strftime('%H:%M:%S'))
+                else:
+                    cl.sendText(msg.to,helpt)
             elif ("Group name:" in msg.text):
               if msg.from_ in admin:
                 if msg.toType == 2:
@@ -1691,7 +1710,20 @@ def bot(op):
                 midd = msg.text.replace("Invite:"," ")
                 cl.findAndAddContactsByMid(midd)
                 cl.inviteIntoGroup(msg.to,[midd])
-            
+            elif "Bot invite:" in msg.text:
+              if msg.from_ in admin:
+                midd = msg.text.replace("Bot invite:"," ")
+                ki.findAndAddContactsByMid(midd)
+                ki.inviteIntoGroup(msg.to,[midd])
+            elif "Contact" == msg.text:
+              if msg.from_ in admin:
+                msg.contentType = 13
+                msg.contentMetadata = {'mid': msg.to}
+                cl.sendMessage(msg)
+		msg.contentType = 9
+                msg.contentMetadata={'PRDID': 'a0768339-c2d3-4189-9653-2909e9bb6f58', 'PRDTYPE': 'THEME', 'MSGTPL': '4'}
+                msg.text = None
+                cl.sendMessage(msg)
             elif msg.text.lower() == 'contact bot':
               if msg.from_ in admin:
                 msg.contentType = 13
@@ -1714,8 +1746,6 @@ def bot(op):
                 kt.sendMessage(msg)
                 
 #=======================================================
-                
-                
             elif msg.text in ["Me"]:
 	      if msg.from_ in admin:
                 msg.contentType = 13
@@ -1764,6 +1794,24 @@ def bot(op):
                                     'MSGTPL': '12'}
                 msg.text = None
                 ki.sendMessage(msg)
+                kk.sendMessage(msg)
+                kc.sendMessage(msg)
+                cl.sendMessage(msg)
+                ks.sendMessage(msg)
+                kt.sendMessage(msg)
+		ki.sendMessage(msg)
+                kk.sendMessage(msg)
+                kc.sendMessage(msg)
+                cl.sendMessage(msg)
+                ks.sendMessage(msg)
+                kt.sendMessage(msg)
+		ki.sendMessage(msg)
+                kk.sendMessage(msg)
+                kc.sendMessage(msg)
+                cl.sendMessage(msg)
+                ks.sendMessage(msg)
+                kt.sendMessage(msg)
+		ki.sendMessage(msg)
                 kk.sendMessage(msg)
                 kc.sendMessage(msg)
                 cl.sendMessage(msg)
@@ -2004,6 +2052,12 @@ def bot(op):
                     for _mid in gMembMids:
                         random.choice(KAC).cancelGroupInvitation(msg.to,[_mid])
                         cl.sendText(msg.to,"I pretended to cancel and canceled.")
+#======================================================
+            elif msg.text in ["ลบแชท","ล้างแชท"]:
+              if msg.from_ in admin:
+                cl.removeAllMessages(op.param2)
+                cl.sendText(msg.to,"❇️Delete Chat All❇️")
+#======================================================
             elif 'link on' in msg.text.lower():
               if msg.from_ in admin:
                 if msg.toType == 2:
@@ -2064,7 +2118,7 @@ def bot(op):
                 for i in gs:
                     L += "[≫] %s \n" % (cl.getGroup(i).name + " | [ " + str(len (cl.getGroup(i).members)) + " ]")
                 cl.sendText(msg.to, L + "\nTotal Group : [ " + str(len(gs)) +" ]")
- 
+#======================================================
             elif "Invite me" in msg.text:
               if msg.from_ in owner:
                          gid = cl.getGroupIdsJoined()
@@ -2072,7 +2126,7 @@ def bot(op):
 			        cl.findAndAddContactsByMid(msg.from_)
                                 cl.inviteIntoGroup(i,[msg.from_])
 			        cl.sendText(msg.to, "successfully invited you to all groups")
-
+#======================================================
             elif "Hack pict group" in msg.text:
               if msg.from_ in admin:
 					group = cl.getGroup(msg.to)
@@ -2865,9 +2919,9 @@ def bot(op):
                         except:
                             pass
                 print "[Command]dp executed"
-            elif "Midpict:" in msg.text:
+            elif "Mid-pict:" in msg.text:
               if msg.from_ in admin:
-                umid = msg.text.replace("Midpict:","")
+                umid = msg.text.replace("Mid-pict:","")
                 contact = cl.getContact(umid)
                 try:
                     image = "http://dl.profile.line-cdn.net/" + contact.pictureStatus
@@ -3232,7 +3286,7 @@ def bot(op):
 		    cl.sendText(msg.to, "Jumlah minimal member telah di set : "+jml)
 		else:
 		    cl.sendText(msg.to, "Khusus Admin")
-            #--------------------------------------------------------
+#--------------------------------------------------------
 	    elif "Add all" in msg.text:
 		if msg.from_ in admin:
 		    thisgroup = cl.getGroups([msg.to])
@@ -4007,7 +4061,7 @@ def bot(op):
                 if msg.toType == 2:
                    ginfo = cl.getGroup(msg.to)
                 try:
-                     ki.sendText(msg.to,"ผู้สร้างกลุ่ม : " + str(ginfo.name) + " :\n" + ginfo.creator.displayName )
+                     ki.sendText(msg.to,"Bye..bye : " + str(ginfo.name) + " :\n" + ginfo.creator.displayName )
                      ki.leaveGroup(msg.to)
                      kk.leaveGroup(msg.to)
                      kc.leaveGroup(msg.to)
@@ -4314,6 +4368,7 @@ def bot(op):
                     #for _mid in gMembMids:
                         #random.choice(KAC).cancelGroupInvitation(msg.to,[_mid])
                     #cl.sendText(msg.to,"Clear boss!!!")
+#============================================
             elif msg.text.lower() in ["mention all"]:
               if msg.from_ in admin:
                 group = cl.getGroup(msg.to)
@@ -4372,8 +4427,67 @@ def bot(op):
                     cnt = Message()
                     cnt.text = "SLEFBOT-MAN-PC : TAG ALL\nจำนวณสมาชิก" + str(jml) +  " Members"
                     cnt.to = msg.to
-                    cl.sendMessage(cnt)           
-                      
+                    cl.sendMessage(cnt) 
+            elif msg.text.lower() in ["man tagall"]:
+              if msg.from_ in admin:
+                group = cl.getGroup(msg.to)
+                nama = [contact.mid for contact in group.members]
+                nm1, nm2, nm3, nm4, nm5, jml = [], [], [], [], [], len(nama)
+                if jml <= 100:
+                    mention(msg.to, nama)
+                    if jml > 100 and jml < 200:
+                        for i in range(0, 100):
+                            nm1 += [nama[i]]
+                    mention(msg.to, nm1)
+                    for j in range(101, len(nama)):
+                        nm2 += [nama[j]]
+                    mention(msg.to, nm2)
+                if jml > 200 and jml < 300:
+                    for i in range(0, 100):
+                        nm1 += [nama[i]]
+                    mention(msg.to, nm1)
+                    for j in range(101, 200):
+                        nm2 += [nama[j]]
+                    mention(msg.to, nm2)
+                    for k in range(201, len(nama)):
+                        nm3 += [nama[k]]
+                    mention(msg.to, nm3)
+                if jml > 300 and jml < 400:
+                    for i in range(0, 100):
+                        nm1 += [nama[i]]
+                    mention(msg.to, nm1)
+                    for j in range(101, 200):
+                        nm2 += [nama[j]]
+                    mention(msg.to, nm2)
+                    for k in range(201, 300):
+                        nm3 += [nama[k]]
+                    mention(msg.to, nm3)
+                    for l in range(301, len(nama)):
+                        nm4 += [nama[l]]
+                    mention(msg.to, nm4)
+                if jml > 400 and jml < 500:
+                    for i in range(0, 100):
+                        nm1 += [nama[i]]
+                    mention(msg.to, nm1)
+                    for j in range(101, 200):
+                        nm2 += [nama[j]]
+                    mention(msg.to, nm2)
+                    for k in range(201, 300):
+                        nm3 += [nama[k]]
+                    mention(msg.to, nm3)
+                    for l in range(301, 400):
+                        nm4 += [nama[l]]
+                    mention(msg.to, nm4)
+                    for h in range(401, len(nama)):
+                        nm5 += [nama[h]]
+                    mention(msg.to, nm5)
+                if jml > 500:
+                    cl.sendText(msg.to, 'SELFBOT-MAN-PC')
+                    cnt = Message()
+                    cnt.text = "SLEFBOT-MAN-PC : TAG ALL  " + str(jml) +  "  Members"
+                    cnt.to = msg.to
+                    cl.sendMessage(cnt)
+		
 #===========================================
         if op.param3 == "1":
             if op.param1 in protectname:
