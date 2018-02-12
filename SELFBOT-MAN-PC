@@ -13,14 +13,6 @@ cl = LINETCR.LINE()
 cl.login(token="MAN")
 cl.loginResult()
 
-kt = LINETCR.LINE()
-kt.login(token="MAN")
-kt.loginResult()
-
-ks = LINETCR.LINE()
-ks.login(token="MAN")
-ks.loginResult()
-
 ki = LINETCR.LINE()
 ki.login(token="MAN")
 ki.loginResult()
@@ -30,8 +22,16 @@ kk.login(token="MAN")
 kk.loginResult()
 
 kc = LINETCR.LINE()
-kc.login(tokem="MAN")
+kc.login(token="MAN")
 kc.loginResult()
+
+ks = LINETCR.LINE()
+ks.login(token="MAN")
+ks.loginResult()
+
+kt = LINETCR.LINE()
+kt.login(token="MAN")
+kt.loginResult()
 
 #kl = LINETCR.LINE()
 #kl.login(token="MAN")
