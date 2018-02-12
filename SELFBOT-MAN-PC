@@ -40,7 +40,7 @@ kc.loginResult()
 print "login..SELFBOT-MAN-PC"
 reload(sys)
 sys.setdefaultencoding('utf-8')
-helpMessage= """\n
+helpMessage= """
 ========================
 ─͜͡✫ѕєʟғвот[ᴍ̶̲̅ᴀ̶̲̅ɴ̶̲̅]κɪcκєʀ ͜͡✫─
 ========================
@@ -186,7 +186,7 @@ http://line.me/ti/p/~1ove..neverdie
 http://line.me/ti/p/~security_botline
 ──────┅═ই۝ई═┅──────
 """
-helpmessage2="""
+helpMessage2= """
 ╭════════╬💀╬════════╮ 
 ║         ★ BOT-MODIFIER ★
 ║❂͜͡☆➣ Bot1 rename:[text]
@@ -251,7 +251,7 @@ helpmessage2="""
 ║❂͜͡☆➣ Cleanse
 ╰════════╬💀╬════════╯
 """
-helpmessage3="""
+helpMessage3= """
 ╭════════╬📇╬════════╮ 
 ║ ★ BOT AUTO SETTINGS ★
 ║❂͜͡☆➣ Gcancel:[number] 1 on
